@@ -9,6 +9,7 @@ layout: two-cols
 ✅ **Analyse massive**
 
 - Milliers de lignes en quelques secondes
+
 </div>
 <div>
 
@@ -29,6 +30,7 @@ layout: two-cols
 ✅ **Connexion outils**
 
 - Lire fichiers, exécuter code
+
 </div>
 <div>
 
@@ -47,24 +49,28 @@ layout: two-cols
 ⚠️ **Knowledge cutoff** (dépend des modèles)
 
 - Ne connaît pas les versions récentes des librairies par exemple
+
 </div>
 <div>
 
 ⚠️ **Hallucinations**
 
 - Peut inventer des APIs
+
 </div>
 <div>
 
 ⚠️ **Context window** (limité selon le modèle)
 
 - Limite de mémoire
+
 </div>
 <div>
 
 ⚠️ **Raisonnement complexe**
 
 - Algorithmes, maths avancées
+
 </div>
 <div>
 
