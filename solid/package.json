@@ -3,8 +3,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "slidev --open slides.md",
-    "build": "slidev build slides.md"
+    "dev": "slidev --open slides-fr.md",
+    "dev:fr": "slidev --open slides-fr.md",
+    "dev:en": "slidev --open slides-en.md"
   },
   "dependencies": {
     "@slidev/cli": "catalog:",

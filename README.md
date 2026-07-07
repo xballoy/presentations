@@ -5,8 +5,8 @@ A collection of Xavier Balloy's technical presentations.
 | Presentation | Language | Folder |
 | --- | --- | --- |
 | Managing Technical Debt with AI | English / Français | [`ai-tech-debt`](./ai-tech-debt) |
-| Les 5 principes d'architecture SOLID | Français | [`solid`](./solid) |
-| Opaque Types | English | [`opaque-types`](./opaque-types) |
+| Les 5 principes d'architecture SOLID | English / Français | [`solid`](./solid) |
+| Opaque Types | English / Français | [`opaque-types`](./opaque-types) |
 
 ## Development
 
