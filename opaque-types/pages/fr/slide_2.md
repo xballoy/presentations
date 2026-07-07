@@ -1,7 +1,7 @@
 # TypeScript : un vérificateur de types statique
 
 - Vérifie les types à la compilation
-- Empêche les erreurs de type de données
+- Empêche les erreurs liées aux types de données
 
 ```ts
 const increment = (value: number) => value + 1;

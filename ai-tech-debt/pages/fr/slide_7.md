@@ -11,7 +11,7 @@
 3. **Prédit le token suivant LE PLUS PROBABLE** basé sur les patterns appris
 
    ```
-   "Analyse cette" → next token: probablement "fonction"
+   "Analyse cette" → token suivant : probablement "fonction"
    ```
 
 4. Ajoute ce token à la séquence

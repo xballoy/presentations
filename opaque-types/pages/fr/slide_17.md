@@ -1,4 +1,4 @@
-# Ajouter une validation du domaine
+# Ajouter une validation de domaine
 
 - Aide à créer des fonctions qui valident le format des données
 - Exemples :

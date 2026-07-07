@@ -24,13 +24,13 @@ Deux approches pour utiliser l'IA dans le développement
 
 ## ✅ Ingénierie assistée par IA
 
-|                   |                                           |
-| ----------------- | ----------------------------------------- |
-| **Prompts**       | « Refactor UserService pour utiliser DI » |
-| **Validation**    | Review + tests à chaque étape             |
-| **Compréhension** | Comprendre et adapter                     |
-| **Rapidité**      | 🎯 Plus lent au début                     |
-| **Long terme**    | 📈 Maintenable                            |
+|                   |                                            |
+| ----------------- | ------------------------------------------ |
+| **Prompts**       | « Refactore UserService pour utiliser DI » |
+| **Validation**    | Review + tests à chaque étape              |
+| **Compréhension** | Comprendre et adapter                      |
+| **Rapidité**      | 🎯 Plus lent au début                      |
+| **Long terme**    | 📈 Maintenable                             |
 
 **Mentalité** : « L'IA propose, je valide »
 

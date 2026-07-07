@@ -38,7 +38,7 @@ Le modèle apprend à être utile, honnête et inoffensif via les préférences 
 
 <div class="text-sm mt-4 text-gray-600">
 
-👥 Feedback humain · 🏆 Reward model · ✅ Alignement
+👥 Feedback humain · 🏆 Modèle de récompense · ✅ Alignement
 
 </div>
 </div>

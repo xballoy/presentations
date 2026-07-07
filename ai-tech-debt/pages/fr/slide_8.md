@@ -22,14 +22,14 @@ layout: two-cols
 
 ✅ **Apprentissage par l'exemple**
 
-- Donne-lui des exemples, il adapte
+- Donne-lui des exemples, il s'adapte
 
 </div>
 <div>
 
 ✅ **Connexion aux outils**
 
-- Lire fichiers, exécuter code
+- Lire des fichiers, exécuter du code
 
 </div>
 <div>

@@ -1,6 +1,6 @@
 # Utilisation basique (non recommandée)
 
-Convertissez votre valeur en type opaque à l'aide d'un cast.
+Castez votre valeur en tant que type opaque.
 
 ```ts
 type EmailAddress = string & { readonly __brand: unique symbol };

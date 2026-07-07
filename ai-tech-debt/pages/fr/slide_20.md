@@ -22,7 +22,7 @@ Source : _Harness engineering_, Ryan Lopopolo, OpenAI (fév. 2026).
 
 1. Encoder les « golden principles » dans le repo
 2. Des agents en tâche de fond qui scannent les dérives
-3. Des PRs de cleanup petites, ciblées, automerge
+3. Des PRs de cleanup petites, ciblées, automergées
 4. **Payer la dette de manière continue** plutôt qu'en gros chantiers périodiques
 
 </div>

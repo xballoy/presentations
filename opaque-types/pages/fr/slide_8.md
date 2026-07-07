@@ -13,7 +13,7 @@ type User = {
   username: string;
 };
 const getPosts = async (userId: UserId) => {
-  // Récupère les posts
+  // Fetch the posts
   return Promise.resolve([]);
 };
 

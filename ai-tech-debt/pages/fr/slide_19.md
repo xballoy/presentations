@@ -5,4 +5,4 @@
 - Migrer React-Router 5x à 7x
 - Migration majeure de Material UI
 - Automatiser la mise à jour de dépendances
-- Support pour faire des audits
+- Accompagnement pour les audits
