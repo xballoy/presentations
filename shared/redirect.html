@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <script>
+    (function () {
+      var fr = (navigator.language || 'en').toLowerCase().indexOf('fr') === 0;
+      window.location.replace((fr ? 'fr' : 'en') + '/');
+    })();
+  </script>
+  <noscript><meta http-equiv="refresh" content="0; url=en/"></noscript>
+</head>
+<body>
+  <p>Redirecting… <a href="en/">English</a> / <a href="fr/">Français</a></p>
+</body>
+</html>

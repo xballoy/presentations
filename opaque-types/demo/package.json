@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "@xballoy/presentation-opaque-types",
+  "version": "1.0.0",
+  "author": "Xavier Balloy",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "types:check": "tsc --noEmit",
+    "quality:check": "biome check .",
+    "quality:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "catalog:demo",
+    "@tsconfig/node24": "catalog:demo",
+    "@tsconfig/strictest": "catalog:demo",
+    "@types/node": "catalog:demo",
+    "typescript": "catalog:demo",
+    "vitest": "catalog:demo"
+  },
+  "dependencies": {
+    "valibot": "1.4.2",
+    "zod": "4.4.3"
+  }
+}

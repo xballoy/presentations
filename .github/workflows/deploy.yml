@@ -1,0 +1,65 @@
+name: Deploy pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
+
+      - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6
+
+      - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build presentations
+        env:
+          BASE: /${{ github.event.repository.name }}
+        run: |
+          pnpm --filter ai-tech-debt exec slidev build slides-en.md --without-notes --base "$BASE/ai-tech-debt/en/" --out ../dist/ai-tech-debt/en
+          pnpm --filter ai-tech-debt exec slidev build slides-fr.md --without-notes --base "$BASE/ai-tech-debt/fr/" --out ../dist/ai-tech-debt/fr
+          pnpm --filter solid        exec slidev build slides-en.md --without-notes --base "$BASE/solid/en/"        --out ../dist/solid/en
+          pnpm --filter solid        exec slidev build slides-fr.md --without-notes --base "$BASE/solid/fr/"        --out ../dist/solid/fr
+          pnpm --filter opaque-types exec slidev build slides-en.md --without-notes --base "$BASE/opaque-types/en/" --out ../dist/opaque-types/en
+          pnpm --filter opaque-types exec slidev build slides-fr.md --without-notes --base "$BASE/opaque-types/fr/" --out ../dist/opaque-types/fr
+          cp index.html dist/index.html
+          cp shared/redirect.html dist/ai-tech-debt/index.html
+          cp shared/redirect.html dist/solid/index.html
+          cp shared/redirect.html dist/opaque-types/index.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-24.04
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5

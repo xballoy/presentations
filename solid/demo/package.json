@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "@xballoy/presentation-solid",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "types:check": "tsc --noEmit",
+    "quality:check": "biome check .",
+    "quality:fix": "biome check --write ."
+  },
+  "author": "Xavier Balloy",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "catalog:demo",
+    "@tsconfig/node24": "catalog:demo",
+    "@tsconfig/strictest": "catalog:demo",
+    "typescript": "catalog:demo",
+    "vitest": "catalog:demo"
+  },
+  "dependencies": {
+    "@types/big.js": "7.0.0",
+    "@types/node": "catalog:demo",
+    "big.js": "7.0.1"
+  }
+}
