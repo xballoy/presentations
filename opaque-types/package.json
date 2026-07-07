@@ -1,0 +1,14 @@
+{
+  "name": "opaque-types",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open slides.md",
+    "build": "slidev build slides.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "catalog:",
+    "@slidev/theme-default": "catalog:",
+    "vue": "catalog:"
+  }
+}
