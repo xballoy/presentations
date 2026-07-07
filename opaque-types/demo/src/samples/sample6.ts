@@ -1,4 +1,4 @@
-import { Branded } from '../branded';
+import type { Branded } from '../branded';
 
 type EmailAddress = Branded<string, 'EmailAddress'>;
 

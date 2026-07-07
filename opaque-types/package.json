@@ -8,8 +8,8 @@
     "dev:fr": "slidev --open slides-fr.md"
   },
   "dependencies": {
-    "@slidev/cli": "catalog:",
-    "@slidev/theme-default": "catalog:",
-    "vue": "catalog:"
+    "@slidev/cli": "catalog:slidev",
+    "@slidev/theme-default": "catalog:slidev",
+    "vue": "catalog:slidev"
   }
 }

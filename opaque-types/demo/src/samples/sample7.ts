@@ -1,4 +1,4 @@
-import { StrongOpaqueType } from '../branded';
+import type { StrongOpaqueType } from '../branded';
 
 type EmailAddress = StrongOpaqueType<string, 'EmailAddress'>;
 

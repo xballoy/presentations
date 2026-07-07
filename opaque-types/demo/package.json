@@ -5,16 +5,22 @@
   "author": "Xavier Balloy",
   "license": "MIT",
   "scripts": {
-    "test": "vitest --run"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "types:check": "tsc --noEmit",
+    "quality:check": "biome check .",
+    "quality:fix": "biome check --write ."
   },
   "devDependencies": {
-    "@tsconfig/node20": "20.1.4",
-    "prettier": "3.2.5",
-    "typescript": "5.4.5",
-    "vitest": "1.5.0"
+    "@biomejs/biome": "catalog:demo",
+    "@tsconfig/node24": "catalog:demo",
+    "@tsconfig/strictest": "catalog:demo",
+    "@types/node": "catalog:demo",
+    "typescript": "catalog:demo",
+    "vitest": "catalog:demo"
   },
   "dependencies": {
-    "valibot": "0.30.0",
-    "zod": "3.23.0"
+    "valibot": "1.4.2",
+    "zod": "4.4.3"
   }
 }

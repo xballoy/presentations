@@ -1,8 +1,16 @@
-import { brand, object, string, parse, Output, Input } from 'valibot';
+import {
+  brand,
+  type InferInput,
+  type InferOutput,
+  object,
+  parse,
+  pipe,
+  string,
+} from 'valibot';
 
-const UserId = brand(string(), 'UserId');
-type UserId = Output<typeof UserId>;
-type InputUserId = Input<typeof UserId>;
+const UserId = pipe(string(), brand('UserId'));
+type UserId = InferOutput<typeof UserId>;
+type InputUserId = InferInput<typeof UserId>;
 const User = object({
   id: UserId,
   username: string(),

@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>xballoy/renovate-config", ":automergeAll"],
-  "ignorePaths": ["**/demo/**"]
+  "ignorePaths": ["**/node_modules/**", "**/bower_components/**", "ai-tech-debt/demo/**"]
 }

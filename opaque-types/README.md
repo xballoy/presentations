@@ -20,7 +20,7 @@ From the repository root:
 - `pnpm --filter opaque-types dev:en`
 - `pnpm --filter opaque-types dev:fr`
 
-The demo lives in [`demo`](./demo). Run it with `npm install && npm test`.
+The demo lives in [`demo`](./demo). From the repository root, run `pnpm --filter @xballoy/presentation-opaque-types test`.
 
 ## License
 

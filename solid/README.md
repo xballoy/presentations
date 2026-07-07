@@ -20,7 +20,7 @@ From the repository root:
 - `pnpm --filter solid dev:en`
 - `pnpm --filter solid dev:fr`
 
-The demo lives in [`demo`](./demo). Run it with `npm install && npm test`.
+The demo lives in [`demo`](./demo). From the repository root, run `pnpm --filter @xballoy/presentation-solid test`.
 
 ## License
 

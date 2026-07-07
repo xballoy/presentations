@@ -1,6 +1,7 @@
 {
-  "extends": ["@tsconfig/strictest/tsconfig", "@tsconfig/node22/tsconfig"],
+  "extends": ["@tsconfig/strictest/tsconfig", "@tsconfig/node24/tsconfig"],
   "compilerOptions": {
+    "types": ["node"],
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.tsbuildinfo"
   }
 }

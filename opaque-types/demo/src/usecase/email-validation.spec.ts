@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { sendEmail, isValidEmail, assertValidEmail } from './email-validation';
+import { assertValidEmail, isValidEmail, sendEmail } from './email-validation';
 
 describe('Email validation', () => {
   it('should throw an error when invalid email', () => {

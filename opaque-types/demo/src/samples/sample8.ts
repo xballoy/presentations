@@ -1,4 +1,4 @@
-import { SuperOpaqueType } from '../branded';
+import type { SuperOpaqueType } from '../branded';
 
 type EmailAddress = SuperOpaqueType<string, 'EmailAddress'>;
 
