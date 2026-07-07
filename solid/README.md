@@ -20,8 +20,8 @@ From the repository root:
 - `pnpm --filter solid dev:en`
 - `pnpm --filter solid dev:fr`
 
-Demo code is located in the [demo](./demo) folder.
+The demo lives in [`demo`](./demo). Run it with `npm install && npm test`.
 
 ## License
 
-The presentation and its demo code are licensed under [MIT](../LICENCE.md).
+The presentation and its demo code are licensed under [MIT](../LICENCE.md) by Xavier Balloy.

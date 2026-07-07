@@ -16,6 +16,10 @@ routerMode: hash
 Xavier Balloy
 
 ---
+src: ../shared/en/about-me.md
+---
+
+---
 src: ./pages/en/slide_2.md
 ---
 
@@ -108,5 +112,5 @@ src: ./pages/en/slide_24.md
 ---
 
 ---
-src: ./pages/en/slide_25.md
+src: ../shared/en/closing.md
 ---

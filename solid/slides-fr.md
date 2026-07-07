@@ -20,11 +20,11 @@ Sondage : qui connaît les principes SOLID ? Qui sait en expliquer 1, 2, 3, 4 ou
 -->
 
 ---
-src: ./pages/fr/slide_2.md
+src: ../shared/fr/about-me.md
 ---
 
 ---
-src: ./pages/fr/slide_3.md
+src: ./pages/fr/slide_2.md
 ---
 
 ---
@@ -124,5 +124,5 @@ src: ./pages/fr/slide_27.md
 ---
 
 ---
-src: ./pages/fr/slide_28.md
+src: ../shared/fr/closing.md
 ---

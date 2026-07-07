@@ -20,11 +20,11 @@ Quick poll: who knows the SOLID principles? Who can explain 1, 2, 3, 4, or 5 of 
 -->
 
 ---
-src: ./pages/en/slide_2.md
+src: ../shared/en/about-me.md
 ---
 
 ---
-src: ./pages/en/slide_3.md
+src: ./pages/en/slide_2.md
 ---
 
 ---
@@ -124,5 +124,5 @@ src: ./pages/en/slide_27.md
 ---
 
 ---
-src: ./pages/en/slide_28.md
+src: ../shared/en/closing.md
 ---

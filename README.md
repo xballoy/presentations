@@ -19,8 +19,8 @@ This is a [pnpm](https://pnpm.io/) workspace. Each presentation shares the same 
 
 Each presentation opens at [http://localhost:3030](http://localhost:3030).
 
-The runnable example code for a presentation lives in its `demo` folder.
+The runnable example code for a presentation lives in its `demo` folder. Slides and components shared across presentations (the language switcher, the self-intro and closing slides) live in [`shared`](./shared).
 
 ## License
 
-Licensed under [MIT](./LICENCE.md). The `ai-tech-debt` demo bundles third-party code under its own license; see [`ai-tech-debt/demo`](./ai-tech-debt/demo).
+Licensed under [MIT](./LICENCE.md) by Xavier Balloy. The `ai-tech-debt` demo bundles third-party code under its own license; see [`ai-tech-debt/demo`](./ai-tech-debt/demo).

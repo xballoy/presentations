@@ -14,7 +14,7 @@ routerMode: hash
 # L'IA pour gérer la dette technique
 
 ---
-src: ./pages/fr/slide_2.md
+src: ../shared/fr/about-me.md
 ---
 
 ---
@@ -98,5 +98,5 @@ src: ./pages/fr/slide_22.md
 ---
 
 ---
-src: ./pages/fr/slide_23.md
+src: ../shared/fr/closing.md
 ---

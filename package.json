@@ -6,8 +6,8 @@
     "dev:ai-tech-debt": "pnpm --filter ai-tech-debt dev",
     "dev:solid": "pnpm --filter solid dev",
     "dev:opaque-types": "pnpm --filter opaque-types dev",
-    "format:check": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" --check",
-    "format:fix": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" --write"
+    "format:check": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" \"shared/**/*.md\" --check",
+    "format:fix": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" \"shared/**/*.md\" --write"
   },
   "devDependencies": {
     "prettier": "3.9.4",

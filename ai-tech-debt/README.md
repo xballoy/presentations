@@ -18,8 +18,8 @@ From the repository root:
 - `pnpm dev:ai-tech-debt`
 - visit [http://localhost:3030](http://localhost:3030)
 
-Demo code is located in the [demo](./demo) folder.
+The demo in [`demo`](./demo) is a fork of [Extreme Carpaccio](https://github.com/dlresende/extreme-carpaccio) by Diego Lemos de Resende. Run it with `npm ci && npm start`.
 
 ## License
 
-The presentation is licensed under [MIT](../LICENCE.md). The demo code is licensed under [BSD-3-Clause](./demo/LICENSE.md).
+The presentation is licensed under [MIT](../LICENCE.md) by Xavier Balloy. The demo code is licensed under [BSD-3-Clause](./demo/LICENSE.md).

@@ -20,8 +20,8 @@ From the repository root:
 - `pnpm --filter opaque-types dev:en`
 - `pnpm --filter opaque-types dev:fr`
 
-Demo code is located in the [demo](./demo) folder.
+The demo lives in [`demo`](./demo). Run it with `npm install && npm test`.
 
 ## License
 
-The presentation and its demo code are licensed under [MIT](../LICENCE.md).
+The presentation and its demo code are licensed under [MIT](../LICENCE.md) by Xavier Balloy.
