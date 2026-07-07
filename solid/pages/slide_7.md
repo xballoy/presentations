@@ -2,7 +2,7 @@
 
 **Symptôme**
 
-L'application est difficile à modifier, car chaque changement entraîne de nombreuses autres modifications dans d'autres parties du système.
+L'application est difficile à modifier, car chaque changement entraîne de nombreuses modifications dans d'autres parties du système.
 
 **Conséquences**
 

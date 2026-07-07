@@ -5,11 +5,11 @@
 
 - Comment organiser nos fonctions et nos structures de données
 - Principes formalisés par Uncle Bob en 1995
-  - **SRP** — Principe de Responsabilité Unique
-  - **OCP** — Principe ouvert-fermé
-  - **LSP** — Principe de Substitution de Liskov
-  - **DIP** — Principe d'inversion des dépendances
-  - **ISP** — Principe de Ségrégation des Interfaces
+  - **SRP** : Principe de responsabilité unique
+  - **OCP** : Principe ouvert-fermé
+  - **LSP** : Principe de substitution de Liskov
+  - **DIP** : Principe d'inversion des dépendances
+  - **ISP** : Principe de ségrégation des interfaces
 
 À utiliser **uniquement** pour éliminer les design smells.
 
@@ -24,5 +24,5 @@ Les principes SOLID s'appliquent pour éliminer un design smell (YAGNI).
 
 Historique : principes définis par Robert C. Martin en mars 1995 (dans un ordre différent), détaillés dans son livre « Agile Software Development: Principles, Patterns, and Practices ». L'acronyme a été inventé plus tard par Michael Feathers.
 
-Ce sont des principes de haut niveau : comment organiser nos fonctions et structures de données, et comment les classes doivent s'interconnecter, pour créer des modules qui tolèrent le changement, sont faciles à comprendre, et servent de base à des composants réutilisables.
+Ce sont des principes de haut niveau : comment organiser nos fonctions et structures de données, et comment les classes doivent s'interconnecter, pour créer des modules qui tolèrent le changement, qui sont faciles à comprendre, et qui servent de base à des composants réutilisables.
 -->

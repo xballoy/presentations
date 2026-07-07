@@ -4,4 +4,4 @@ layout: quote
 
 # « Créez des interfaces fines et spécifiques au client. »
 
-ISP — Principe de Ségrégation des Interfaces
+ISP : Principe de ségrégation des interfaces

@@ -1,4 +1,4 @@
-# OCP — Principe ouvert-fermé
+# OCP : Principe ouvert-fermé
 
 **Symptôme** : Rigide
 
@@ -13,9 +13,9 @@
 
 <!--
 OPEN : on peut modifier le comportement d'une entité logicielle sans devoir la modifier.
-CLOSE : un module ne doit pas changer quand son comportement change.
+CLOSE : le code d'un module ne doit pas être modifié pour lui ajouter un nouveau comportement.
 
-Contre-intuitif, mais facile en utilisant des abstractions : si on référence une abstraction, on peut changer l'implémentation sans changer le module qui la référence. Lié à l'inversion des dépendances (D), mis en place avec différents patterns (factory, IoC…).
+Contre-intuitif, mais facile en utilisant des abstractions : si on référence une abstraction, on peut changer l'implémentation sans changer le module qui la référence. Lié à l'inversion des dépendances (D), mis en place avec différents patterns (factory, IoC...).
 
 Exemple : on agrandit notre marché, maintenant on vend aussi en Alberta, donc on calcule le total en fonction de la province.
 -->

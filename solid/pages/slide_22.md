@@ -29,5 +29,5 @@ layout: two-cols-header
 
 <!--
 Exemple : maintenant on gère l'Ontario, par contre pas de PST.
-Source : Agence du revenu du Canada — calculateur GST/HST.
+Source : calculateur GST/HST de l'Agence du revenu du Canada.
 -->

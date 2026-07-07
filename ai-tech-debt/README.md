@@ -1,4 +1,4 @@
-# How to Use AI to Manage Technical Debt on Your Projects Without It Turning Into a Nightmare
+# How to use AI to manage technical debt on your projects without it turning into a nightmare
 
 > Technical debt, a nightmare? Discover how Claude Code can analyze and create a concrete action plan. Live demo: major version migrations, automatic codemods, architectural refactoring. Real failure cases included. No magic, just validated AI assistance.
 
@@ -22,4 +22,4 @@ Demo code is located in the [demo](./demo) folder.
 
 ## License
 
-The presentation is licensed under [MIT](./LICENCE.md), the demo code is licensed under [BSD-3-Clause license](./demo/LICENSE.md).
+The presentation is licensed under [MIT](./LICENCE.md). The demo code is licensed under [BSD-3-Clause license](./demo/LICENSE.md).

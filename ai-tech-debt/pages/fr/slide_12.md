@@ -30,8 +30,8 @@ Structure the output so each item can be addressed independently.
 ```
 
 <!--
-- Claude: mode Sandbox (Docker sbx)
+- Claude : mode Sandbox (Docker sbx)
 - Utilisation du mode Plan
-    - lecture seule (enforced par le prompt seulement)
+    - lecture seule (imposé par le prompt seulement)
     - idéal pour l'exploration et les reviews
 -->

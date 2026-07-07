@@ -6,7 +6,7 @@
 Il faut **agir** quand on les rencontre.
 
 <!--
-Si on ne fait pas attention, notre code va commencer à avoir des design smells. Il faut agir dès qu'on les rencontre, sinon l'application va devenir immaintenable.
+Si on ne fait pas attention, notre code va commencer à avoir des design smells. Il faut agir dès qu'on les rencontre, sinon l'application va devenir impossible à maintenir.
 
 Les 7 symptômes de design smells suivent.
 -->

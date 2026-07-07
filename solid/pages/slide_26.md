@@ -1,4 +1,4 @@
-# DIP — Principe d'inversion des dépendances
+# DIP : Principe d'inversion des dépendances
 
 **Symptômes** : Fragile · Immobile
 

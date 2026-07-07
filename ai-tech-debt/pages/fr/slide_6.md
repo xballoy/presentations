@@ -46,18 +46,18 @@ Le modèle apprend à être utile, honnête et inoffensif via les préférences 
 </v-clicks>
 
 <!--
-**1. Pré-entraînement**:
-- "Apprentissage massif sur internet, livres, code"
-- "Next Token Prediction sur des corpus gigantesques"
-- "Coûte des millions de dollars - c'est pourquoi VOUS ne pouvez pas en créer un"
+**1. Pré-entraînement** :
+- « Apprentissage massif sur internet, livres, code »
+- « Next Token Prediction sur des corpus gigantesques »
+- « Coûte des millions de dollars - c'est pourquoi VOUS ne pouvez pas en créer un »
 
-**2. Fine-tuning supervisé (SFT)**:
-- "On lui apprend à suivre des instructions avec des exemples annotés"
-- "Beaucoup moins de données, beaucoup moins cher"
-- "C'est ici qu'un modèle devient bon pour le code, le dialogue, etc."
+**2. Fine-tuning supervisé (SFT)** :
+- « On lui apprend à suivre des instructions avec des exemples annotés »
+- « Beaucoup moins de données, beaucoup moins cher »
+- « C'est ici qu'un modèle devient bon pour le code, le dialogue, etc. »
 
-**3. RLHF (Reinforcement Learning from Human Feedback)**:
-- "On lui apprend à préférer les bonnes réponses via du feedback humain"
-- "Modèle de récompense entraîné sur des préférences humaines"
-- "Objectif: utile, honnête, inoffensif (HHH)"
+**3. RLHF (Reinforcement Learning from Human Feedback)** :
+- « On lui apprend à préférer les bonnes réponses via du feedback humain »
+- « Modèle de récompense entraîné sur des préférences humaines »
+- « Objectif : utile, honnête, inoffensif (HHH) »
 -->

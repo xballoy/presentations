@@ -1,4 +1,4 @@
-# LSP — Principe de Substitution de Liskov
+# LSP : Principe de substitution de Liskov
 
 **Symptôme** : Fragile
 

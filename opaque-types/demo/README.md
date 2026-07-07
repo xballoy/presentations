@@ -1,4 +1,4 @@
-# Presentation Opaque Types
+# Opaque Types Presentation
 
 > Examples for my presentation on opaque types.
 

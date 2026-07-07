@@ -21,5 +21,5 @@ const getPosts = async (userId: string) => {
 
 <!--
 No compile-time validation on the input: we can pass any string to the function.
-Could be the same with an email / zip code / age (positive number) / number in a range…
+The same could happen with an email, zip code, age (a positive number), or a number in a range...
 -->

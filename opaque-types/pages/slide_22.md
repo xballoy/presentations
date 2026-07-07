@@ -1,4 +1,4 @@
-# Strong Opaque Type — Example
+# Strong Opaque Type: Example
 
 ```ts
 export type StrongOpaqueType<BaseType, T> = (BaseType & Brand<T>) | Brand<T>;

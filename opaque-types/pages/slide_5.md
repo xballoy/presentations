@@ -21,6 +21,6 @@ const getPosts = async (userId: UserId) => {
 ```
 
 <!--
-We could use an alias, but it only pushes the problem further: it is purely descriptive,
-no functional change. We need to define a new type for the ID.
+We could use an alias, but it only pushes the problem further: it is purely descriptive and
+has no functional effect. We need to define a new type for the ID.
 -->

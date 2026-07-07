@@ -2,7 +2,7 @@
 
 ## Cinq démos, une approche
 
-1. **Analyser** : l'IA explore, nous validons les findings
+1. **Analyser** : l'IA explore, nous validons les résultats
 2. **Planifier** : l'IA propose un plan, nous l'orientons
 3. **Décider** : l'IA compare les alternatives, nous choisissons
 4. **Simplifier** : l'IA repère les dépendances inutiles, nous mesurons l'effort

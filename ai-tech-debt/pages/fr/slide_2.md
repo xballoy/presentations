@@ -3,7 +3,7 @@
 
 # À propos de moi
 
-- Directeur de l’ingénierie logicielle de Koddian chez [Kumojin](https://kumojin.com)
+- Directeur de l'ingénierie logicielle de Koddian chez [Kumojin](https://kumojin.com)
 - Artisan logiciel
 - 15 ans d'expérience
 - Utilisateur avancé de l'IA pour développer depuis 18 mois
@@ -16,7 +16,7 @@
 
 <!--
 - À partir de novembre 2024 j'ai testé plusieurs outils d'IA
-    - JetBrains IA
+    - JetBrains AI
     - Cursor
     - GitHub Copilot
     - Claude

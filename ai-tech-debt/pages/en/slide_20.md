@@ -10,7 +10,7 @@ So far: a developer paying down the debt reactively. What's next: agents paying 
 
 Agents reproduce existing patterns, including bad ones. The code slowly drifts.
 
-> At OpenAI, **20% of the week (every Friday) cleaning up the "AI slop"** before they automated it.
+> At OpenAI, **20% of the week (every Friday) spent cleaning up the "AI slop"** before they automated it.
 
 Source: _Harness engineering_, Ryan Lopopolo, OpenAI (Feb. 2026).
 
@@ -31,7 +31,7 @@ Source: _Harness engineering_, Ryan Lopopolo, OpenAI (Feb. 2026).
 
 <br/>
 
-### gh-aw — the open source version
+### gh-aw - the open source version
 
 [`github/gh-aw`](https://github.github.com/gh-aw/): agentic workflows in GitHub Actions, declared in markdown.
 

@@ -1,9 +1,9 @@
-# Why using opaque types?
+# Why use opaque types?
 
 - **Clarity**
-  - Explicit the domain type
+  - Make the domain type explicit
 - **Safety and correctness**
-  - Add validation on the types
+  - Add validation to the types
   - Allow the compiler to catch new errors
 - **Maintainability**
   - Reduce ambiguity

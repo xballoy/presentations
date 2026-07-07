@@ -1,6 +1,6 @@
 ---
 theme: default
-title: Comment utiliser l'AI pour gérer la dette technique sur vos projets sans que ça tourne au cauchemar
+title: Comment utiliser l'IA pour gérer la dette technique sur vos projets sans que ça tourne au cauchemar
 author: Xavier Balloy
 info: false
 class: text-center

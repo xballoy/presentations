@@ -27,7 +27,7 @@ layout: two-cols
 </div>
 <div>
 
-✅ **Connexion outils**
+✅ **Connexion aux outils**
 
 - Lire fichiers, exécuter code
 
@@ -46,7 +46,7 @@ layout: two-cols
 
 <div>
 
-⚠️ **Knowledge cutoff** (dépend des modèles)
+⚠️ **Knowledge cutoff** (selon le modèle)
 
 - Ne connaît pas les versions récentes des librairies par exemple
 
@@ -60,7 +60,7 @@ layout: two-cols
 </div>
 <div>
 
-⚠️ **Context window** (limité selon le modèle)
+⚠️ **Context window** (selon le modèle)
 
 - Limite de mémoire
 

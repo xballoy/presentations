@@ -4,7 +4,7 @@
 - Can be used to declare well-typed properties on objects
 - You can see symbols using `Object.getOwnPropertySymbols()`
 - But they are not visible using:
-  - `for` loops
+  - `for...in` loops
   - `Object.keys()`
   - `Object.getOwnPropertyNames()`
-  - when converting an object to a JSON string
+  - `JSON.stringify()`

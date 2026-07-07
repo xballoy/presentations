@@ -26,7 +26,7 @@ Toujours chargé dans le contexte.
 
 L'agent lit les descriptions en contexte et charge le contenu complet quand la tâche correspond.
 
-- **Auto** : `writing-tests`, `debugging`, `pr-content`…
+- **Auto** : `writing-tests`, `debugging`, `pr-content`...
 - **Explicite** : `/code-review`, `/codemod`, `/release`
 
 </div>
@@ -37,7 +37,7 @@ L'agent lit les descriptions en contexte et charge le contenu complet quand la t
 
 ### Outil : [rulesync](https://rulesync.dyoshikawa.com/)
 
-Source unique → configs pour **25+ outils** : Claude Code, Cursor, Copilot, Gemini CLI, Codex, Cline… Rules, skills, commands, MCP, permissions.
+Source unique → configs pour **25+ outils** : Claude Code, Cursor, Copilot, Gemini CLI, Codex, Cline... Rules, skills, commands, MCP, permissions.
 
 ```bash
 npx rulesync generate

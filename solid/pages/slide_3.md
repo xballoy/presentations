@@ -5,7 +5,7 @@
 
 - Développeur full stack
 - Tech lead
-- Organisateur du meetup software crafters Québec
+- Organisateur du meetup Software Crafters Québec
 - [in/xavierballoy](https://www.linkedin.com/in/xavierballoy/)
 - [xballoy](https://github.com/xballoy)
 

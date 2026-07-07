@@ -20,7 +20,7 @@
 
 <div class="bg-yellow-100 p-4 rounded mt-6">
 
-⚠️ **Point clé** : "Le plus probable" ≠ "Le correct"
+⚠️ **Point clé** : « Le plus probable » ≠ « Le correct »
 
 C'est de la **prédiction statistique**, pas de la magie.
 

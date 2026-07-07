@@ -1,8 +1,8 @@
-# ISP — Principe de Ségrégation des Interfaces
+# ISP : Principe de ségrégation des interfaces
 
 **Symptômes** : Fragile · Rigide · Complexité inutile
 
-Crée un couplage inutile — mais attention à ne pas sur-découper !
+Une interface trop large crée un couplage inutile, mais attention à ne pas sur-découper !
 
 **Comment identifier s'il n'est pas respecté**
 

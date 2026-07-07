@@ -1,10 +1,10 @@
 # Add domain validation
 
-- Help with the creation of functions that can validate the format of the data
+- Help create functions that validate the data's format
 - Examples:
   - Validate an email
   - Ensure a number is positive
-  - Ensure an ID is for a specific object
+  - Ensure an ID refers to a specific object
 
 ```ts
 import { Branded } from "./branded";

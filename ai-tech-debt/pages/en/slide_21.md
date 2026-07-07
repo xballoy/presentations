@@ -26,7 +26,7 @@ Always loaded into the context.
 
 The agent reads descriptions in context and loads the full content when the task matches.
 
-- **Auto**: `writing-tests`, `debugging`, `pr-content`…
+- **Auto**: `writing-tests`, `debugging`, `pr-content`...
 - **Explicit**: `/code-review`, `/codemod`, `/release`
 
 </div>
@@ -37,7 +37,7 @@ The agent reads descriptions in context and loads the full content when the task
 
 ### Tool: [rulesync](https://rulesync.dyoshikawa.com/)
 
-Single source → configs for **25+ tools**: Claude Code, Cursor, Copilot, Gemini CLI, Codex, Cline… Rules, skills, commands, MCP, permissions.
+Single source → configs for **25+ tools**: Claude Code, Cursor, Copilot, Gemini CLI, Codex, Cline... Rules, skills, commands, MCP, permissions.
 
 ```bash
 npx rulesync generate
