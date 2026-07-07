@@ -1,0 +1,17 @@
+{
+  "name": "presentations",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev:ai-tech-debt": "pnpm --filter ai-tech-debt dev",
+    "dev:solid": "pnpm --filter solid dev",
+    "dev:opaque-types": "pnpm --filter opaque-types dev",
+    "format:check": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" --check",
+    "format:fix": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" --write"
+  },
+  "devDependencies": {
+    "prettier": "3.9.4",
+    "prettier-plugin-slidev": "1.0.5"
+  },
+  "packageManager": "pnpm@11.10.0"
+}
