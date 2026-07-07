@@ -39,6 +39,18 @@ importers:
         specifier: 'catalog:'
         version: 3.5.39(typescript@6.0.3)
 
+  solid:
+    dependencies:
+      '@slidev/cli':
+        specifier: 'catalog:'
+        version: 52.16.0(@nuxt/kit@3.21.8)(@types/markdown-it@14.1.2)(@types/node@22.20.0)(@vue/compiler-sfc@3.5.39)(lightningcss@1.32.0)(markdown-it@14.3.0)(postcss@8.5.16)(rolldown@1.1.4)
+      '@slidev/theme-default':
+        specifier: 'catalog:'
+        version: 0.25.0
+      vue:
+        specifier: 'catalog:'
+        version: 3.5.39(typescript@6.0.3)
+
 packages:
 
   '@antfu/install-pkg@1.1.0':
