@@ -1,6 +1,6 @@
 # Et après ? Payer la dette en continu
 
-Jusqu'ici : un dev qui rembourse la dette de manière réactive. La suite : des agents qui paient en continu.
+Jusqu'ici : un dev qui rembourse la dette de manière réactive. La suite : des agents qui la remboursent en continu.
 
 <div class="grid grid-cols-2 gap-6">
 
@@ -10,7 +10,7 @@ Jusqu'ici : un dev qui rembourse la dette de manière réactive. La suite : des 
 
 Les agents reproduisent les patterns existants, y compris les mauvais. Le code dérive lentement.
 
-> Chez OpenAI, **20 % de la semaine (tous les vendredis) passée à nettoyer le « AI slop »** avant qu'ils n'automatisent ça.
+> Chez OpenAI, **20 % de la semaine (tous les vendredis) était passée à nettoyer le « AI slop »** avant qu'ils n'automatisent ça.
 
 Source : _Harness engineering_, Ryan Lopopolo, OpenAI (fév. 2026).
 

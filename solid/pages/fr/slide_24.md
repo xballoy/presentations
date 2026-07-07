@@ -6,7 +6,7 @@ Une interface trop large crée un couplage inutile, mais attention à ne pas sur
 
 **Comment identifier s'il n'est pas respecté**
 
-- Si une classe contient des méthodes non utilisées qui viennent d'une interface, c'est que l'interface est mal découplée
+- Si une classe contient des méthodes non utilisées qui viennent d'une interface, c'est que l'interface est mal découpée
 
 <!--
 Exemple : on ajoute des CartActions trop spécifiques.

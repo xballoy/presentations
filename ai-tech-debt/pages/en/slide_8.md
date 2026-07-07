@@ -48,7 +48,7 @@ layout: two-cols
 
 ⚠️ **Knowledge cutoff** (varies by model)
 
-- Doesn't know recent library versions for example
+- Doesn't know recent library versions, for example
 
 </div>
 <div>

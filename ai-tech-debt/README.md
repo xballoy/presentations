@@ -22,4 +22,4 @@ Demo code is located in the [demo](./demo) folder.
 
 ## License
 
-The presentation is licensed under [MIT](./LICENCE.md). The demo code is licensed under [BSD-3-Clause license](./demo/LICENSE.md).
+The presentation is licensed under [MIT](../LICENCE.md). The demo code is licensed under [BSD-3-Clause](./demo/LICENSE.md).

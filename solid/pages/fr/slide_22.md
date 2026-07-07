@@ -28,6 +28,6 @@ layout: two-cols-header
 | Yukon                     | 5 %     | 0 %     |
 
 <!--
-Exemple : maintenant on gère l'Ontario, par contre pas de PST.
-Source : calculateur GST/HST de l'Agence du revenu du Canada.
+Exemple : maintenant on gère l'Ontario, par contre pas de TVP.
+Source : calculateur TPS/TVH de l'Agence du revenu du Canada.
 -->

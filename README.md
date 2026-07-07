@@ -23,4 +23,4 @@ The runnable example code for a presentation lives in its `demo` folder.
 
 ## License
 
-Licensed under [MIT](./LICENCE.md). Individual presentations may include demo code under their own license. See each `demo` folder.
+Licensed under [MIT](./LICENCE.md). The `ai-tech-debt` demo bundles third-party code under its own license; see [`ai-tech-debt/demo`](./ai-tech-debt/demo).

@@ -1,4 +1,4 @@
-# L'IA peut aider... ou aggraver
+# L'IA peut aider... ou l'aggraver
 
 <div class="grid grid-cols-2 gap-4">
 

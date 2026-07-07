@@ -1,4 +1,4 @@
-# Weak Opaque Type
+# Weak opaque type
 
 Can be used either as the opaque type or the base type.
 

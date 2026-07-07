@@ -3,7 +3,7 @@
 
 # About me
 
-- Director of Koddian software engineering at [Kumojin](https://kumojin.com)
+- Director of Koddian's software engineering at [Kumojin](https://kumojin.com)
 - Software craftsman
 - 15 years of experience
 - 18 months of advanced AI use for development

@@ -1,4 +1,4 @@
-# Super Opaque Type: Example
+# Super opaque type: example
 
 ```ts
 export type SuperOpaqueType<BaseType, T> = Brand<T>;

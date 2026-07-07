@@ -12,7 +12,7 @@ type User = {
   username: string;
 };
 const getPosts = async (userId: UserId) => {
-  // Fetch the posts
+  // Récupère les posts
   return Promise.resolve([]);
 };
 (async () => {

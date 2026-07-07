@@ -11,4 +11,4 @@ npm test
 
 ## Licence
 
-This work by [Xavier Balloy](https://www.linkedin.com/in/xavierballoy/) is licensed under [MIT](./LICENCE.md).
+This work by [Xavier Balloy](https://www.linkedin.com/in/xavierballoy/) is licensed under [MIT](../../LICENCE.md).

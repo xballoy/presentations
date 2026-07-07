@@ -1,4 +1,4 @@
-# Super Opaque Type
+# Super opaque type
 
 - Cannot be explicitly or implicitly cast to its base type
 - Useful for cases where we are truly making a new type that is unrelated to any base type

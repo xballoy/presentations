@@ -13,7 +13,7 @@
 
 <!--
 OPEN : on peut modifier le comportement d'une entité logicielle sans devoir la modifier.
-CLOSE : le code d'un module ne doit pas être modifié pour lui ajouter un nouveau comportement.
+CLOSED : le code d'un module ne doit pas être modifié pour lui ajouter un nouveau comportement.
 
 Contre-intuitif, mais facile en utilisant des abstractions : si on référence une abstraction, on peut changer l'implémentation sans changer le module qui la référence. Lié à l'inversion des dépendances (D), mis en place avec différents patterns (factory, IoC...).
 

@@ -18,7 +18,7 @@ Deux approches pour utiliser l'IA dans le développement
 | **Rapidité**      | ⚡ Rapide au début                      |
 | **Long terme**    | 💥 Dette technique                      |
 
-**Mentalité** : « Ça marche, c'est bon »
+**Mentalité** : « Ça marche, ça suffit »
 
 ::right::
 

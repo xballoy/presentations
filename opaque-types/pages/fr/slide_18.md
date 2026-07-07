@@ -2,13 +2,13 @@
 layout: two-cols-header
 ---
 
-# Utiliser zod / valibot
+# Utiliser Zod / Valibot
 
-Utilisez zod / valibot pour parser vos objets / réponses d'API et améliorer leurs types.
+Utilisez Zod / Valibot pour parser vos objets / réponses d'API et améliorer leurs types.
 
 ::left::
 
-**zod**
+**Zod**
 
 ```ts
 import { z } from "zod";
@@ -34,7 +34,7 @@ await getPosts(user.id);
 
 ::right::
 
-**valibot**
+**Valibot**
 
 ```ts
 import { brand, object, string, parse, Output } from "valibot";

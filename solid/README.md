@@ -24,4 +24,4 @@ Demo code is located in the [demo](./demo) folder.
 
 ## License
 
-The presentation is licensed under [MIT](../LICENCE.md). The demo code is licensed under [MIT](./demo/LICENCE.md).
+The presentation and its demo code are licensed under [MIT](../LICENCE.md).

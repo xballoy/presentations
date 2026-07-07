@@ -6,6 +6,6 @@ layout: center
 
 <div>
 
-https://github.com/xballoy/presentation-ai-tech-debt
+https://github.com/xballoy/presentations/tree/main/ai-tech-debt
 
 </div>
