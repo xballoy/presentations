@@ -11,10 +11,10 @@ catalogs:
     '@slidev/theme-default': 0.25.0
     vue: 3.5.39
   demo:
-    '@biomejs/biome': 2.5.2
+    '@biomejs/biome': 2.5.3
     '@tsconfig/node24': 24.0.4
     '@tsconfig/strictest': 2.0.8
-    '@types/node': 26.1.0
+    '@types/node': 26.1.1
     typescript: 7.0.1-rc
     vitest: 4.1.10
 
