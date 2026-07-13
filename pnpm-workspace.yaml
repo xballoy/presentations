@@ -7,7 +7,7 @@ packages:
 
 catalogs:
   slidev:
-    '@slidev/cli': 52.16.0
+    '@slidev/cli': 52.17.0
     '@slidev/theme-default': 0.25.0
     vue: 3.5.39
   demo:
@@ -15,7 +15,7 @@ catalogs:
     '@tsconfig/node24': 24.0.4
     '@tsconfig/strictest': 2.0.8
     '@types/node': 26.1.1
-    typescript: 7.0.1-rc
+    typescript: 7.0.2
     vitest: 4.1.10
 
 allowBuilds:
