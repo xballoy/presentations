@@ -1,5 +1,6 @@
 packages:
   - 'ai-tech-debt'
+  - 'ai-for-beginners'
   - 'solid'
   - 'solid/demo'
   - 'opaque-types'

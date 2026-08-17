@@ -46,7 +46,7 @@ importers:
         specifier: 1.0.5
         version: 1.0.5(prettier@3.9.6)
 
-  ai-tech-debt:
+  ai-for-beginners:
     dependencies:
       '@slidev/cli':
         specifier: catalog:slidev
@@ -57,6 +57,18 @@ importers:
       vue:
         specifier: catalog:slidev
         version: 3.5.41(typescript@6.0.3)
+
+  ai-tech-debt:
+    dependencies:
+      '@slidev/cli':
+        specifier: catalog:slidev
+        version: 52.19.0(@nuxt/kit@3.21.11)(@oxc-project/types@0.144.0)(@types/markdown-it@14.1.2)(@types/node@26.2.0)(@vitejs/devtools-kit@0.4.12(@modelcontextprotocol/server@2.0.0)(cac@7.0.0)(srvx@0.12.5)(vite@8.2.1(@types/node@26.2.0)(jiti@2.7.0)(yaml@2.9.0)))(@vue/compiler-sfc@3.5.41)(cac@7.0.0)(hono@4.13.2)(lightningcss@1.33.0)(markdown-it@14.3.0)(oxc-parser@0.131.0)(postcss@8.5.26)(rolldown@1.2.4)(srvx@0.12.5)
+      '@slidev/theme-default':
+        specifier: catalog:slidev
+        version: 0.25.0
+      vue:
+        specifier: catalog:slidev
+        version: 3.5.41(typescript@7.0.2)
 
   opaque-types:
     dependencies:
