@@ -1,3 +1,7 @@
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
+
 <div class="flex justify-between">
 <div>
 
@@ -9,6 +13,6 @@
 
 </div>
 <div>
-<img :src="'/me.jpg'" class="rounded-full w-48 h-48 object-cover" />
+<img :src="base + 'me.jpg'" class="rounded-full w-48 h-48 object-cover" />
 </div>
 </div>
