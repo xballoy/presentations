@@ -1,4 +1,4 @@
-# Un outil qui a appris à partir de milliers d'exemples
+# Un outil qui a appris à partir de motifs
 
 L'IA est devenue très douée pour reconnaître des motifs après avoir vu un très grand nombre d'exemples.
 

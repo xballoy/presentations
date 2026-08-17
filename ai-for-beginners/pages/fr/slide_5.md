@@ -1,6 +1,6 @@
 # IA conversationnelle et IA image/voix
 
-Deux choses que vous rencontrerez vraiment :
+Trois choses que vous rencontrerez vraiment :
 
 - L'IA conversationnelle (comme ChatGPT) : vous tapez ou parlez, elle répond, comme un assistant très cultivé
 - L'IA image : reconnaît une plante ou un objet sur une photo, ou traduit instantanément un texte photographié sur un panneau ou une étiquette
