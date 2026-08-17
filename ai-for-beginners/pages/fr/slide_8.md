@@ -1,19 +1,22 @@
 # Démo 2 : traduire quelque chose de réel
 
-Une vraie phrase du site du contrôle des habitants de la Ville de Sion, expliquant pourquoi une
-attestation de résidence est nécessaire :
+Un proche du Haut-Valais, la partie germanophone du canton, envoie ce message. Copiez-le
+directement dans l'IA :
 
 <CopyBlock>
 
-> L'attestation de résidence est exigée notamment par les Offices de l'état civil, des
-> établissements bancaires, diverses administrations ou institutions.
+> Traduis ce message en français :
+>
+> Hallo! Ich habe gehört, dass du am Wochenende nach Sion kommst. Können wir uns am Samstag zum
+> Kaffee treffen? Ich muss dir auch die Unterlagen für die Krankenkasse geben, die ich von der
+> Gemeinde bekommen habe.
 
 </CopyBlock>
 
-On demande à l'IA de la traduire en allemand, pour l'expliquer à un proche ou une banque
-germanophone.
-
 <!--
-Source : sion.ch, page du contrôle des habitants.
-Vérifiez que le texte est toujours exact sur sion.ch peu avant la présentation.
+Message illustratif, pas une source recopiée, écrit en allemand standard comme il apparaîtrait
+dans un vrai SMS venant du Haut-Valais.
+Remplace une version précédente qui traduisait une phrase administrative, ce qui semblait forcé
+puisque personne n'a vraiment de raison de traduire cette phrase précise. Un message d'un proche
+bilingue est la vraie raison quotidienne d'utiliser la traduction en Valais.
 -->
