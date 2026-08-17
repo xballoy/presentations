@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev:ai-tech-debt": "pnpm --filter ai-tech-debt dev",
+    "dev:ai-for-beginners": "pnpm --filter ai-for-beginners dev",
     "dev:solid": "pnpm --filter solid dev",
     "dev:opaque-types": "pnpm --filter opaque-types dev",
     "format:check": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" \"shared/**/*.md\" --check",

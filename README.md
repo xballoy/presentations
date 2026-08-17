@@ -5,6 +5,7 @@ A collection of Xavier Balloy's technical presentations.
 | Presentation | Language | Folder |
 | --- | --- | --- |
 | Managing Technical Debt with AI | English / Français | [`ai-tech-debt`](./ai-tech-debt) |
+| AI Fundamentals for Beginners | English / Français | [`ai-for-beginners`](./ai-for-beginners) |
 | The 5 SOLID architecture principles | English / Français | [`solid`](./solid) |
 | Opaque Types | English / Français | [`opaque-types`](./opaque-types) |
 
@@ -14,6 +15,7 @@ This is a [pnpm](https://pnpm.io/) workspace. Each presentation shares the same 
 
 - `pnpm install`
 - `pnpm dev:ai-tech-debt` - start the AI technical debt talk
+- `pnpm dev:ai-for-beginners` - start the AI fundamentals for beginners talk
 - `pnpm dev:solid` - start the SOLID talk
 - `pnpm dev:opaque-types` - start the opaque types talk
 
