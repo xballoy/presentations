@@ -1,3 +1,7 @@
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
+
 <div class="flex justify-between items-center gap-8">
 <div>
 
@@ -15,7 +19,7 @@ To be used **only** to eliminate design smells.
 
 </div>
 <div>
-<img :src="'/agile-software-development.jpg'" class="max-h-96 object-contain rounded shadow-lg" />
+<img :src="base + 'agile-software-development.jpg'" class="max-h-96 object-contain rounded shadow-lg" />
 </div>
 </div>
 

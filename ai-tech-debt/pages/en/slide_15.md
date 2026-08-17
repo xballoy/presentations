@@ -1,3 +1,7 @@
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
+
 # Major migration: React 19.2
 
 Interactive approach
@@ -7,5 +11,5 @@ Interactive approach
 - Claude generates a detailed plan
 
 <SlidevVideo v-click controls>
-  <source :src="'/claude-code-react-questions.mp4'" type="video/mp4" />
+  <source :src="base + 'claude-code-react-questions.mp4'" type="video/mp4" />
 </SlidevVideo>
