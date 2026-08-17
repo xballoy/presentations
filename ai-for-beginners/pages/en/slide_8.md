@@ -1,9 +1,14 @@
 # Demo 2: Translate something real
 
-A short sentence from an official notice, or a message from a Haut-Valais contact.
+A real sentence from the City of Sion's residents' registration office website, explaining
+why you'd need an "attestation de résidence" (proof of residence):
 
-Ask the AI to translate it, French to German.
+> "L'attestation de résidence est exigée notamment par les Offices de l'état civil, des
+> établissements bancaires, diverses administrations ou institutions."
+
+Ask the AI to translate it to German, so you could explain it to a German speaking relative or bank.
 
 <!--
-Use a real world sentence, not an abstract translation exercise.
+Source: sion.ch, contrôle des habitants page.
+Double check the text is still accurate on sion.ch shortly before the talk.
 -->
