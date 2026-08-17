@@ -4,9 +4,13 @@ Le même scénario réel que la démo 2 : demander cette attestation de résiden
 
 On demande à l'IA :
 
-> « Écris une lettre formelle demandant une attestation de résidence au Contrôle des habitants de
+<CopyBlock>
+
+> Écris une lettre formelle demandant une attestation de résidence au Contrôle des habitants de
 > Sion (Espace des Remparts 6, Case postale 606, 1951 Sion), dont j'ai besoin pour ma banque. Je
-> m'appelle [Nom], je suis domicilié·e à Sion depuis [date]. »
+> m'appelle [Nom], je suis domicilié·e à Sion depuis [date].
+
+</CopyBlock>
 
 <!--
 Choisi plutôt qu'un exemple de message à un proche. Les démarches administratives suisses sont

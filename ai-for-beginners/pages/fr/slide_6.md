@@ -3,9 +3,13 @@
 Un vrai extrait de la notice patient officielle du Dafalgan (paracétamol), une marque courante
 vendue dans les pharmacies suisses :
 
-> « Dans de rares cas, des maladies graves appelées acidose métabolique (un trouble du sang et de
+<CopyBlock>
+
+> Dans de rares cas, des maladies graves appelées acidose métabolique (un trouble du sang et de
 > l'équilibre hydrique) ont été rapportées. Les symptômes sont : une forte gêne respiratoire avec
-> respiration profonde et rapide, des étourdissements, des nausées et des vomissements. »
+> respiration profonde et rapide, des étourdissements, des nausées et des vomissements.
+
+</CopyBlock>
 
 On demande à l'IA : « Explique ça comme si tu parlais à ma grand-mère. »
 

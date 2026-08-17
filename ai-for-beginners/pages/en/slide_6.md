@@ -3,9 +3,13 @@
 A real excerpt from the official patient leaflet for Dafalgan (paracetamol), a common
 over the counter brand sold in Swiss pharmacies:
 
-> "Dans de rares cas, des maladies graves appelées acidose métabolique (un trouble du sang et de
+<CopyBlock>
+
+> Dans de rares cas, des maladies graves appelées acidose métabolique (un trouble du sang et de
 > l'équilibre hydrique) ont été rapportées. Les symptômes sont : une forte gêne respiratoire avec
-> respiration profonde et rapide, des étourdissements, des nausées et des vomissements."
+> respiration profonde et rapide, des étourdissements, des nausées et des vomissements.
+
+</CopyBlock>
 
 Ask the AI: "Explique ça comme si tu parlais à ma grand-mère."
 

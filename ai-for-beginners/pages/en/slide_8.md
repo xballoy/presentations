@@ -3,8 +3,12 @@
 A real sentence from the City of Sion's residents' registration office website, explaining
 why you'd need an "attestation de résidence" (proof of residence):
 
-> "L'attestation de résidence est exigée notamment par les Offices de l'état civil, des
-> établissements bancaires, diverses administrations ou institutions."
+<CopyBlock>
+
+> L'attestation de résidence est exigée notamment par les Offices de l'état civil, des
+> établissements bancaires, diverses administrations ou institutions.
+
+</CopyBlock>
 
 Ask the AI to translate it to German, so you could explain it to a German speaking relative or bank.
 
