@@ -1,3 +1,9 @@
-# Une seule chose à retenir
+# À vous la parole
 
-L'IA est un outil doué pour les motifs et le langage, pas une machine à réponses magiques. Utilisez-la, mais vérifiez tout ce qui compte vraiment.
+Qu'est-ce qui vous préoccupe ?
+
+<!--
+Prévoyez plus de temps que vous ne le pensez. Les idées reçues et les craintes (perte d'emploi,
+« est-ce que ça écoute tout le temps », arnaques) ont besoin de s'exprimer. Ce public a plus tendance
+à garder ses questions pour la fin qu'à interrompre.
+-->

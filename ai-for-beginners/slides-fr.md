@@ -78,5 +78,13 @@ src: ./pages/fr/slide_17.md
 ---
 
 ---
+src: ./pages/fr/slide_18.md
+---
+
+---
+src: ./pages/fr/slide_19.md
+---
+
+---
 src: ../shared/fr/closing.md
 ---

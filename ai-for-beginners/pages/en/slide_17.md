@@ -1,3 +1,8 @@
-# One thing to remember
+# Open floor
 
-AI is a tool that's good at patterns and language, not a magic answer machine. Use it, but double check anything important.
+What's on your mind?
+
+<!--
+Leave more time than you'd think. Misconceptions and fears (job loss, "is it always listening",
+scam concerns) need airtime. This audience is more likely to save questions for the end than interrupt.
+-->

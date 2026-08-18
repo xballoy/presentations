@@ -1,6 +1,11 @@
-# Key takeaways
+# AI in everyday life
 
-- It predicts patterns. It doesn't "think" or "know"
-- Useful for messages, documents, translation, planning
-- Never trust it alone for health, legal, or money decisions
-- Watch out for scam impersonation. Verify before you trust a voice or message
+- Writing or translating a message
+- Understanding an official document
+- Learning something new by just asking, in plain language
+- Basic troubleshooting: why won't my phone or appliance work?
+- Planning: recipes, schedules
+
+<!--
+Keep each example to one sentence plus one visual if possible.
+-->

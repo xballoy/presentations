@@ -1,6 +1,11 @@
-# Ce qu'il faut retenir
+# L'IA au quotidien
 
-- Elle prédit des motifs. Elle ne « pense » pas et ne « sait » pas
-- Utile pour les messages, documents, traductions, planification
-- Ne jamais lui faire confiance seule pour une décision de santé, juridique ou financière
-- Attention aux arnaques par usurpation. Vérifiez avant de faire confiance à une voix ou un message
+- Écrire ou traduire un message
+- Comprendre un document officiel
+- Apprendre quelque chose de nouveau simplement en posant des questions, en langage simple
+- Dépannage de base : pourquoi mon téléphone ou mon appareil ne marche pas ?
+- Planifier : recettes, horaires
+
+<!--
+Gardez chaque exemple à une phrase plus un visuel si possible.
+-->

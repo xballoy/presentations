@@ -1,9 +1,11 @@
-# À vous la parole
+# Démo 4 : ce qu'on retient
 
-Qu'est-ce qui vous préoccupe ?
+Il a fallu quelques secondes pour produire un message urgent, personnel et convaincant.
+
+C'est exactement le schéma de l'arnaque au petit-enfant (Enkeltrick) : un appel ou un message qui ressemble à votre banque, à l'AVS, ou à un petit-enfant en détresse.
+
+Ne faites jamais confiance à l'urgence seule. Vérifiez en rappelant un numéro que vous connaissez déjà.
 
 <!--
-Prévoyez plus de temps que vous ne le pensez. Les idées reçues et les craintes (perte d'emploi,
-« est-ce que ça écoute tout le temps », arnaques) ont besoin de s'exprimer. Ce public a plus tendance
-à garder ses questions pour la fin qu'à interrompre.
+L'arnaque au petit-enfant (Enkeltrick) est un schéma bien documenté en Suisse. Nommez-le explicitement.
 -->
