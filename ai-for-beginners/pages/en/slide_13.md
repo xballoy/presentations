@@ -1,12 +1,17 @@
-# Watch out: job loss and scams
+---
+layout: full
+---
 
-Job loss: AI changes how some tasks get done. It's a tool, not a guarantee that a person gets replaced. Some jobs are genuinely affected, and that's worth taking seriously.
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-Scams: fake voices, fake messages, impersonation. The single most important safety point today, especially for elders.
+<div class="h-full w-full flex flex-col p-8">
 
-- For example, a call that sounds like your bank, the AVS, or a grandchild in distress
+# Demo 3: Backup recording
 
-<!--
-The "grandparent scam" (Enkeltrick) pattern is well documented in Switzerland. Name it explicitly.
-This is the section that earns the most trust with this audience. Don't rush it.
--->
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_3.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

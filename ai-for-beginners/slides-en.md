@@ -1,6 +1,6 @@
 ---
 theme: default
-title: AI Fundamentals for Beginners — a workshop for a general audience
+title: "AI Fundamentals for Beginners: a workshop for a general audience"
 author: Xavier Balloy
 info: false
 class: text-center
@@ -12,6 +12,8 @@ routerMode: hash
 ---
 
 # AI Fundamentals for Beginners
+
+Delivered live in French to a Valais audience. This English version is a translation; demo prompts stay in their original French.
 
 ---
 src: ../shared/en/about-me.md
@@ -75,6 +77,30 @@ src: ./pages/en/slide_16.md
 
 ---
 src: ./pages/en/slide_17.md
+---
+
+---
+src: ./pages/en/slide_18.md
+---
+
+---
+src: ./pages/en/slide_19.md
+---
+
+---
+src: ./pages/en/slide_20.md
+---
+
+---
+src: ./pages/en/slide_21.md
+---
+
+---
+src: ./pages/en/slide_22.md
+---
+
+---
+src: ./pages/en/slide_23.md
 ---
 
 ---

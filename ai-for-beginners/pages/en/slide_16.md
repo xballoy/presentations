@@ -1,6 +1,7 @@
-# Key takeaways
+# Watch out: scams
 
-- It predicts patterns. It doesn't "think" or "know"
-- Useful for messages, documents, translation, planning
-- Never trust it alone for health, legal, or money decisions
-- Watch out for scam impersonation. Verify before you trust a voice or message
+Fake voices, fake messages, impersonation. The single most important safety point today, especially for elders. Watch how fast AI can produce a scam message.
+
+<!--
+This is the section that earns the most trust with this audience. Don't rush it.
+-->

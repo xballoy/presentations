@@ -1,12 +1,17 @@
-# Attention : perte d'emploi et arnaques
+---
+layout: full
+---
 
-Perte d'emploi : l'IA change la façon dont certaines tâches se font. C'est un outil, pas une garantie que quelqu'un sera remplacé. Certains emplois sont réellement touchés, et ça mérite d'être pris au sérieux.
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-Arnaques : fausses voix, faux messages, usurpation d'identité. Le point de sécurité le plus important aujourd'hui, surtout pour les aînés.
+<div class="h-full w-full flex flex-col p-8">
 
-- Par exemple, un appel qui ressemble à votre banque, à l'AVS, ou à un petit-enfant en détresse
+# Démo 3 : enregistrement de secours
 
-<!--
-L'arnaque au petit-enfant (Enkeltrick) est un schéma bien documenté en Suisse. Nommez-le explicitement.
-C'est la section qui gagne le plus la confiance de ce public. Ne la précipitez pas.
--->
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_3.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

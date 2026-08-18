@@ -8,10 +8,10 @@ const base = import.meta.env.BASE_URL
 
 <div class="h-full w-full flex flex-col p-8">
 
-# Démo 1 : enregistrement de secours
+# Demo 4: Backup recording
 
 <SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
-  <source :src="base + 'demo_1.mp4'" type="video/mp4" />
+  <source :src="base + 'demo_4.mp4'" type="video/mp4" />
 </SlidevVideo>
 
 </div>

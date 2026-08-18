@@ -1,11 +1,9 @@
-# L'IA au quotidien
+# Démo 3 : ce qu'on retient
 
-- Écrire ou traduire un message
-- Comprendre un document officiel
-- Apprendre quelque chose de nouveau simplement en posant des questions, en langage simple
-- Dépannage de base : pourquoi mon téléphone ou mon appareil ne marche pas ?
-- Planifier : recettes, horaires
+Elle a produit un brouillon utilisable, avec le bon ton.
+
+Mais il faut toujours vérifier les noms, les dates et les faits avant d'envoyer une lettre officielle qu'elle a aidé à rédiger.
 
 <!--
-Gardez chaque exemple à une phrase plus un visuel si possible.
+Phrase de clôture pour tout le bloc démo. Transition vers la section 4.
 -->

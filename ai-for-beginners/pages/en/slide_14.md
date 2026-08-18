@@ -1,11 +1,9 @@
-# AI in everyday life
+# Demo 3: What we learned
 
-- Writing or translating a message
-- Understanding an official document
-- Learning something new by just asking, in plain language
-- Basic troubleshooting: why won't my phone or appliance work?
-- Planning: recipes, schedules
+It produced a usable draft, in the right tone.
+
+But always double check names, dates, and any factual claims before sending an official letter it helped write.
 
 <!--
-Keep each example to one sentence plus one visual if possible.
+Closing line for the whole demo block. Segue into section 4.
 -->

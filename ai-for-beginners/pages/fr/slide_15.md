@@ -1,9 +1,12 @@
-# À vous la parole
+# Où l'IA peut vous tromper
 
-Qu'est-ce qui vous préoccupe ?
+- Elle peut se tromper avec assurance : faits inventés, fausses posologies, informations juridiques erronées
+- Aucune connaissance en temps réel des événements locaux, sauf si vous lui expliquez
+- Elle ne remplace pas un médecin, un avocat ou un expert local de confiance. C'est un point de départ. Vérifiez avec un vrai expert avant d'agir
+- Elle change la façon dont certaines tâches se font, ce qui n'est pas la même chose que garantir le remplacement d'une personne. Certains emplois sont réellement touchés, et ça mérite d'être pris au sérieux
+
+Ne lui faites jamais confiance seule pour une décision de santé, juridique ou financière.
 
 <!--
-Prévoyez plus de temps que vous ne le pensez. Les idées reçues et les craintes (perte d'emploi,
-« est-ce que ça écoute tout le temps », arnaques) ont besoin de s'exprimer. Ce public a plus tendance
-à garder ses questions pour la fin qu'à interrompre.
+Présentez ceci comme une protection, pas juste une liste de limites. Cette section gagne la confiance.
 -->

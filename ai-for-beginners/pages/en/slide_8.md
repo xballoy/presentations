@@ -1,22 +1,9 @@
-# Demo 2: Translate something real
+# Demo 1: What we learned
 
-A relative from Haut-Valais, the German speaking part of the canton, sends this message.
-Copy it straight into the AI:
+It explained the label in plain language, and it calibrated carefully: it said this side effect is very rare, and that ordinary mild nausea doesn't mean acidosis. The real warning sign is unusually severe, fast, deep breathing.
 
-<CopyBlock>
-
-> Traduis ce message en français :
->
-> Hallo! Ich habe gehört, dass du am Wochenende nach Sion kommst. Können wir uns am Samstag zum
-> Kaffee treffen? Ich muss dir auch die Unterlagen für die Krankenkasse geben, die ich von der
-> Gemeinde bekommen habe.
-
-</CopyBlock>
+But it still can't tell you if this dose is right for you. That's still the pharmacist's job.
 
 <!--
-Illustrative message, not a scraped source, written in standard German as it would appear in a
-real text message from Haut-Valais.
-This replaces an earlier version that translated an administrative sentence, which felt forced
-since nobody has a real reason to translate that specific sentence. A message from a bilingual
-family member is the actual everyday reason someone in Valais would use translation.
+This is the bridge to section 4. Plant the seed early that explaining is not the same as prescribing.
 -->

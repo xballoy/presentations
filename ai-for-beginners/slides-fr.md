@@ -1,6 +1,6 @@
 ---
 theme: default
-title: Les bases de l'IA pour débutants — un atelier pour un public général
+title: "Les bases de l'IA pour débutants : un atelier pour un public général"
 author: Xavier Balloy
 info: false
 class: text-center
@@ -75,6 +75,30 @@ src: ./pages/fr/slide_16.md
 
 ---
 src: ./pages/fr/slide_17.md
+---
+
+---
+src: ./pages/fr/slide_18.md
+---
+
+---
+src: ./pages/fr/slide_19.md
+---
+
+---
+src: ./pages/fr/slide_20.md
+---
+
+---
+src: ./pages/fr/slide_21.md
+---
+
+---
+src: ./pages/fr/slide_22.md
+---
+
+---
+src: ./pages/fr/slide_23.md
 ---
 
 ---
