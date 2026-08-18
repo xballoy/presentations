@@ -1,9 +1,11 @@
-# À vous la parole
+# L'IA au quotidien
 
-Qu'est-ce qui vous préoccupe ?
+- Écrire ou traduire un message
+- Comprendre un document officiel
+- Apprendre quelque chose de nouveau simplement en posant des questions, en langage simple
+- Dépannage de base : pourquoi mon téléphone ou mon appareil ne marche pas ?
+- Planifier : recettes, horaires
 
 <!--
-Prévoyez plus de temps que vous ne le pensez. Les idées reçues et les craintes (perte d'emploi,
-« est-ce que ça écoute tout le temps », arnaques) ont besoin de s'exprimer. Ce public a plus tendance
-à garder ses questions pour la fin qu'à interrompre.
+Gardez chaque exemple à une phrase plus un visuel si possible.
 -->
