@@ -1,6 +1,6 @@
 ---
 theme: default
-title: 'AI Fundamentals for Beginners: a workshop for a general audience'
+title: "AI Fundamentals for Beginners: a workshop for a general audience"
 author: Xavier Balloy
 info: false
 class: text-center
