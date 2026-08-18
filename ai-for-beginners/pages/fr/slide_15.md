@@ -1,11 +1,11 @@
-# Démo 4 : ce qu'on retient
+# Où l'IA peut vous tromper
 
-Il a fallu quelques secondes pour produire un message urgent, personnel et convaincant.
+- Elle peut se tromper avec assurance : faits inventés, fausses posologies, informations juridiques erronées
+- Aucune connaissance en temps réel des événements locaux, sauf si vous lui expliquez
+- Elle ne remplace pas un médecin, un avocat ou un expert local de confiance. C'est un point de départ, pas la dernière réponse
 
-C'est exactement le schéma de l'arnaque au petit-enfant (Enkeltrick) : un appel ou un message qui ressemble à votre banque, à l'AVS, ou à un petit-enfant en détresse.
-
-Ne faites jamais confiance à l'urgence seule. Vérifiez en rappelant un numéro que vous connaissez déjà.
+Ne lui faites jamais confiance seule pour une décision de santé, juridique ou financière.
 
 <!--
-L'arnaque au petit-enfant (Enkeltrick) est un schéma bien documenté en Suisse. Nommez-le explicitement.
+Présentez ceci comme une protection, pas juste une liste de limites. Cette section gagne la confiance.
 -->

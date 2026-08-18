@@ -1,6 +1,17 @@
-# Ce qu'il faut retenir
+---
+layout: full
+---
 
-- Elle prédit des motifs. Elle ne « pense » pas et ne « sait » pas
-- Utile pour les messages, documents, traductions, planification
-- Ne jamais lui faire confiance seule pour une décision de santé, juridique ou financière
-- Attention aux arnaques par usurpation. Vérifiez avant de faire confiance à une voix ou un message
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
+
+<div class="h-full w-full flex flex-col p-8">
+
+# Démo 4 : enregistrement de secours
+
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_4.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

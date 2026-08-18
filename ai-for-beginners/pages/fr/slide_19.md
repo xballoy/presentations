@@ -1,3 +1,11 @@
-# Une seule chose à retenir
+# Démo 4 : ce qu'on retient
 
-L'IA est un outil doué pour les motifs et le langage, pas une machine à réponses magiques. Utilisez-la, mais vérifiez tout ce qui compte vraiment.
+Il a fallu quelques secondes pour produire un message urgent, personnel et convaincant.
+
+C'est exactement le schéma de l'arnaque au petit-enfant (Enkeltrick) : un appel ou un message qui ressemble à votre banque, à l'AVS, ou à un petit-enfant en détresse.
+
+Ne faites jamais confiance à l'urgence seule. Vérifiez en rappelant un numéro que vous connaissez déjà.
+
+<!--
+L'arnaque au petit-enfant (Enkeltrick) est un schéma bien documenté en Suisse. Nommez-le explicitement.
+-->

@@ -1,9 +1,17 @@
-# Watch out: job loss and scams
+---
+layout: full
+---
 
-Job loss: AI changes how some tasks get done. It's a tool, not a guarantee that a person gets replaced. Some jobs are genuinely affected, and that's worth taking seriously.
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-Scams: fake voices, fake messages, impersonation. The single most important safety point today, especially for elders. Watch how fast AI can produce a scam message.
+<div class="h-full w-full flex flex-col p-8">
 
-<!--
-This is the section that earns the most trust with this audience. Don't rush it.
--->
+# Demo 3: Backup recording
+
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_3.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

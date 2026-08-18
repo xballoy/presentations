@@ -1,11 +1,9 @@
-# L'IA au quotidien
+# Attention : perte d'emploi et arnaques
 
-- Écrire ou traduire un message
-- Comprendre un document officiel
-- Apprendre quelque chose de nouveau simplement en posant des questions, en langage simple
-- Dépannage de base : pourquoi mon téléphone ou mon appareil ne marche pas ?
-- Planifier : recettes, horaires
+Perte d'emploi : l'IA change la façon dont certaines tâches se font. C'est un outil, pas une garantie que quelqu'un sera remplacé. Certains emplois sont réellement touchés, et ça mérite d'être pris au sérieux.
+
+Arnaques : fausses voix, faux messages, usurpation d'identité. Le point de sécurité le plus important aujourd'hui, surtout pour les aînés. Regardez à quelle vitesse l'IA peut produire un message d'arnaque.
 
 <!--
-Gardez chaque exemple à une phrase plus un visuel si possible.
+C'est la section qui gagne le plus la confiance de ce public. Ne la précipitez pas.
 -->

@@ -1,11 +1,9 @@
-# AI in everyday life
+# Watch out: job loss and scams
 
-- Writing or translating a message
-- Understanding an official document
-- Learning something new by just asking, in plain language
-- Basic troubleshooting: why won't my phone or appliance work?
-- Planning: recipes, schedules
+Job loss: AI changes how some tasks get done. It's a tool, not a guarantee that a person gets replaced. Some jobs are genuinely affected, and that's worth taking seriously.
+
+Scams: fake voices, fake messages, impersonation. The single most important safety point today, especially for elders. Watch how fast AI can produce a scam message.
 
 <!--
-Keep each example to one sentence plus one visual if possible.
+This is the section that earns the most trust with this audience. Don't rush it.
 -->

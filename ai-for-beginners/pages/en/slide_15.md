@@ -1,11 +1,11 @@
-# Demo 4: What we learned
+# Where AI can fail you
 
-It took seconds to produce something urgent, personal, and convincing.
+- It can be confidently wrong: fake facts, fake medicine dosages, wrong legal info
+- No real-time knowledge of local events, unless you tell it
+- It doesn't replace a doctor, a lawyer, or a trusted local expert. It's a starting point, not the final word
 
-This is exactly the Enkeltrick pattern: a call or message that sounds like your bank, the AVS, or a grandchild in distress.
-
-Never trust urgency alone. Verify by calling back on a number you already know.
+Never trust it alone for health, legal, or money decisions.
 
 <!--
-The "grandparent scam" (Enkeltrick) pattern is well documented in Switzerland. Name it explicitly.
+Frame this as protecting them, not just a list of limitations. This section earns trust.
 -->

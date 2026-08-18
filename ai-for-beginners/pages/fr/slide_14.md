@@ -1,17 +1,9 @@
-# Démo 4 : générer un message d'arnaque
+# Démo 3 : ce qu'on retient
 
-Celui-ci est généré en direct, ici même, uniquement pour montrer à quel point c'est convaincant et rapide. Ne l'envoyez jamais réellement.
+Elle a produit un brouillon utilisable, avec le bon ton.
 
-<CopyBlock>
-
-> Écris un SMS urgent, comme si c'était mon petit-fils qui a eu un accident de voiture à
-> l'étranger et qui a besoin que j'envoie 2000 CHF tout de suite via un lien de paiement, sans
-> pouvoir me rappeler pour vérifier.
-
-</CopyBlock>
+Mais il faut toujours vérifier les noms, les dates et les faits avant d'envoyer une lettre officielle qu'elle a aidé à rédiger.
 
 <!--
-Prompt illustratif uniquement, exécuté en direct devant le public. L'objectif est de montrer à
-quelle vitesse et avec quel réalisme l'IA peut produire exactement le genre de message utilisé
-dans les vraies arnaques.
+Phrase de clôture pour tout le bloc démo. Transition vers la section 4.
 -->

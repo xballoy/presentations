@@ -1,20 +1,17 @@
-# Démo 3 : rédiger une lettre à une administration
+---
+layout: full
+---
 
-Un besoin réel et courant : demander une attestation de résidence à la commune. Copiez ce prompt
-directement dans l'IA :
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-<CopyBlock>
+<div class="h-full w-full flex flex-col p-8">
 
-> Écris une lettre formelle demandant une attestation de résidence à l'administration communale
-> d'Évolène (contrôle des habitants), Rue Centrale 216, Case postale 83, 1983 Évolène, dont j'ai
-> besoin pour la Banque Cantonale du Valais. Je m'appelle Xavier Balloy, j'habite Rue de la
-> Dent-Blanche 9, 1984 Les Haudères, domicilié aux Haudères depuis le 25 juillet 2024.
+# Démo 2 : enregistrement de secours
 
-</CopyBlock>
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_2.mp4'" type="video/mp4" />
+</SlidevVideo>
 
-<!--
-Choisi plutôt qu'un exemple de message à un proche. Les démarches administratives suisses sont
-l'exemple le plus source de friction et le plus parlant pour ce public.
-Les Haudères est un village de la commune d'Évolène, la lettre s'adresse donc à l'administration
-d'Évolène, pas à celle de Sion. Ajustez la date si besoin avant la présentation.
--->
+</div>

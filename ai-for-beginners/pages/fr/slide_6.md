@@ -19,6 +19,6 @@ suisses. Copiez tout ce prompt directement dans l'IA :
 Source de l'extrait : compendium.ch, l'information patient officielle approuvée par Swissmedic
 pour le Dafalgan.
 Commentez votre raisonnement à voix haute en tapant. Cela montre comment demander, pas seulement ce que ça peut faire.
-Prévoyez une capture d'écran ou un enregistrement en secours en cas de problème de connexion.
+En cas de problème de connexion, passez à la diapositive suivante pour l'enregistrement de secours.
 Vérifiez que le texte de la notice est toujours exact sur compendium.ch peu avant la présentation.
 -->

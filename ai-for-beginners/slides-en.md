@@ -86,5 +86,21 @@ src: ./pages/en/slide_19.md
 ---
 
 ---
+src: ./pages/en/slide_20.md
+---
+
+---
+src: ./pages/en/slide_21.md
+---
+
+---
+src: ./pages/en/slide_22.md
+---
+
+---
+src: ./pages/en/slide_23.md
+---
+
+---
 src: ../shared/en/closing.md
 ---

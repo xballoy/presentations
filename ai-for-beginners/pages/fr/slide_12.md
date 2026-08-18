@@ -1,11 +1,22 @@
-# Où l'IA peut vous tromper
+# Démo 3 : rédiger une lettre à une administration
 
-- Elle peut se tromper avec assurance : faits inventés, fausses posologies, informations juridiques erronées
-- Aucune connaissance en temps réel des événements locaux, sauf si vous lui expliquez
-- Elle ne remplace pas un médecin, un avocat ou un expert local de confiance. C'est un point de départ, pas la dernière réponse
+Un besoin réel et courant : demander une attestation de résidence à la commune. Copiez ce prompt
+directement dans l'IA :
 
-Ne lui faites jamais confiance seule pour une décision de santé, juridique ou financière.
+<CopyBlock>
+
+> Écris une lettre formelle demandant une attestation de résidence à l'administration communale
+> d'Évolène (contrôle des habitants), Rue Centrale 216, Case postale 83, 1983 Évolène, dont j'ai
+> besoin pour la Banque Cantonale du Valais. Je m'appelle Xavier Balloy, j'habite Rue de la
+> Dent-Blanche 9, 1984 Les Haudères, domicilié aux Haudères depuis le 25 juillet 2024.
+
+</CopyBlock>
 
 <!--
-Présentez ceci comme une protection, pas juste une liste de limites. Cette section gagne la confiance.
+Choisi plutôt qu'un exemple de message à un proche. Les démarches administratives suisses sont
+l'exemple le plus source de friction et le plus parlant pour ce public.
+Les Haudères est un village de la commune d'Évolène, la lettre s'adresse donc à l'administration
+d'Évolène, pas à celle de Sion. Ajustez la date si besoin avant la présentation.
+En cas d'échec de la démonstration en direct, passez à la diapositive suivante pour
+l'enregistrement de secours.
 -->

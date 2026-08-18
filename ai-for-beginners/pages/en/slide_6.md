@@ -19,6 +19,6 @@ whole prompt straight into the AI:
 Source of the excerpt: compendium.ch, the official Swissmedic-approved patient information for
 Dafalgan.
 Narrate your reasoning out loud while typing. This models how to ask, not just what it can do.
-Have a screenshot or recording ready as backup if connectivity fails.
+If connectivity fails, skip to the next slide for the backup recording.
 Double check the leaflet text is still accurate on compendium.ch shortly before the talk.
 -->

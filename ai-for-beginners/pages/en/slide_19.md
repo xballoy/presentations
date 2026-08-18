@@ -1,3 +1,11 @@
-# One thing to remember
+# Demo 4: What we learned
 
-AI is a tool that's good at patterns and language, not a magic answer machine. Use it, but double check anything important.
+It took seconds to produce something urgent, personal, and convincing.
+
+This is exactly the Enkeltrick pattern: a call or message that sounds like your bank, the AVS, or a grandchild in distress.
+
+Never trust urgency alone. Verify by calling back on a number you already know.
+
+<!--
+The "grandparent scam" (Enkeltrick) pattern is well documented in Switzerland. Name it explicitly.
+-->

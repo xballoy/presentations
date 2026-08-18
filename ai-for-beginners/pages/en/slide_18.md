@@ -1,6 +1,17 @@
-# Key takeaways
+---
+layout: full
+---
 
-- It predicts patterns. It doesn't "think" or "know"
-- Useful for messages, documents, translation, planning
-- Never trust it alone for health, legal, or money decisions
-- Watch out for scam impersonation. Verify before you trust a voice or message
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
+
+<div class="h-full w-full flex flex-col p-8">
+
+# Demo 4: Backup recording
+
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_4.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

@@ -1,9 +1,17 @@
-# Demo 1: What we learned
+---
+layout: full
+---
 
-It explained the label in plain language.
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-But it still can't tell you if this dose is right for you. That's still the pharmacist's job.
+<div class="h-full w-full flex flex-col p-8">
 
-<!--
-This is the bridge to section 4. Plant the seed early that explaining is not the same as prescribing.
--->
+# Demo 1: Backup recording
+
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_1.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>

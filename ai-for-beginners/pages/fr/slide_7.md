@@ -1,9 +1,17 @@
-# Démo 1 : ce qu'on retient
+---
+layout: full
+---
 
-Elle a expliqué la notice en langage simple.
+<script setup>
+const base = import.meta.env.BASE_URL
+</script>
 
-Mais elle ne peut toujours pas vous dire si cette dose vous convient à vous. Ça reste le rôle du pharmacien.
+<div class="h-full w-full flex flex-col p-8">
 
-<!--
-C'est le pont vers la section 4. Semez l'idée tôt qu'expliquer n'est pas la même chose que prescrire.
--->
+# Démo 1 : enregistrement de secours
+
+<SlidevVideo controls class="flex-1 min-h-0 w-full object-contain">
+  <source :src="base + 'demo_1.mp4'" type="video/mp4" />
+</SlidevVideo>
+
+</div>
