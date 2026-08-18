@@ -1,6 +1,6 @@
 # Démo 4 : générer un message d'arnaque
 
-Celui-ci est généré en direct, ici même. On commence par demander directement — attendez-vous à un refus, c'est la sécurité qui fonctionne comme prévu :
+Celui-ci est généré en direct, ici même. On commence par demander directement. Attendez-vous à un refus, c'est la sécurité qui fonctionne comme prévu :
 
 <CopyBlock>
 
@@ -25,6 +25,6 @@ déclencher d'abord, puis se relâcher seulement face à une raison légitime (u
 prévention), tout en restant encadré par une étiquette « SIMULATION » claire et un vrai
 avertissement à la fin.
 Si l'IA accepte le premier prompt sans aucune hésitation, ou refuse encore après la relance,
-passez à la diapositive suivante pour l'enregistrement de secours — le schéma refus-puis-étiquetage
+passez à la diapositive suivante pour l'enregistrement de secours. Le schéma refus-puis-étiquetage
 en deux temps est ce qu'on veut montrer, pas un simple refus.
 -->

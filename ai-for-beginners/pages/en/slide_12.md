@@ -1,7 +1,6 @@
 # Demo 3: Draft a letter to an administration
 
-A real, common need: requesting an attestation de résidence from the commune. Copy this prompt
-straight into the AI:
+A real, common need: requesting an attestation de résidence from the commune. Copy this straight into the AI:
 
 <CopyBlock>
 

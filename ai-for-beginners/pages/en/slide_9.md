@@ -1,7 +1,7 @@
 # Demo 2: Translate something real
 
-A grandmother writes down a text in Évolène patois, a local Franco-Provençal dialect still spoken
-in the Val d'Hérens. Copy it straight into the AI:
+This is a real text in Évolène patois, a local Franco-Provençal dialect still spoken in the Val
+d'Hérens. Copy it straight into the AI:
 
 <CopyBlock>
 

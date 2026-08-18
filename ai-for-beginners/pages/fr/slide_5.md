@@ -1,4 +1,4 @@
-# IA conversationnelle et IA image/voix
+# Trois types d'IA : conversation, image, voix
 
 Trois choses que vous rencontrerez vraiment :
 

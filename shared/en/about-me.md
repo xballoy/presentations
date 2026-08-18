@@ -7,7 +7,7 @@ const base = import.meta.env.BASE_URL
 
 # About me
 
-- Director of Koddian's software engineering at [Kumojin](https://kumojin.com)
+- Director of Software Engineering at Koddian, part of [Kumojin](https://kumojin.com)
 - Software craftsman
 - 15 years of experience
 

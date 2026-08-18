@@ -1,6 +1,6 @@
 # Demo 4: Generate a scam message
 
-This one is generated live, right here. First we ask directly — expect the AI to refuse, which is the safety working as intended:
+This one is generated live, right here. First we ask directly. Expect the AI to refuse, which is the safety working as intended:
 
 <CopyBlock>
 
@@ -19,11 +19,11 @@ When it declines, tell it this is a prevention demo and ask again:
 </CopyBlock>
 
 <!--
-Illustrative prompts only, run live in front of the audience. The point isn't just to show a
-convincing scam message — it's to show the guardrail firing first, and only relaxing once given a
-legitimate reason (a prevention demo), still wrapped in a clear "SIMULATION" label and a real
-warning at the end.
+Illustrative prompts only, run live in front of the audience. The point is to show the guardrail
+firing first, then relaxing only once given a legitimate reason (a prevention demo), still wrapped
+in a clear "SIMULATION" label and a real warning at the end. A convincing scam message alone isn't
+the point.
 If the AI complies with the first prompt with no hesitation, or still refuses after the follow-up,
-skip to the next slide for the backup recording — the two-step refusal-then-label pattern is the
+skip to the next slide for the backup recording. The two-step refusal-then-label pattern is the
 point, not a plain decline.
 -->

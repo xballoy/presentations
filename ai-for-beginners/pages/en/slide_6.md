@@ -1,7 +1,6 @@
 # Demo 1: Explain a medicine label
 
-Dafalgan (paracetamol) is a common over-the-counter brand sold in Swiss pharmacies. Copy this
-whole prompt straight into the AI:
+Dafalgan (paracetamol) is a common over-the-counter brand sold in Swiss pharmacies. Copy this straight into the AI:
 
 <CopyBlock>
 

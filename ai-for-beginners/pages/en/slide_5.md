@@ -1,4 +1,4 @@
-# Chat AI and image/voice AI
+# Three kinds of AI: chat, image, voice
 
 Three things you'll actually encounter:
 

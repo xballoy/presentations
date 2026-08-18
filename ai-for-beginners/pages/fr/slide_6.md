@@ -1,7 +1,7 @@
 # Démo 1 : expliquer une notice de médicament
 
 Le Dafalgan (paracétamol) est une marque courante vendue en vente libre dans les pharmacies
-suisses. Copiez tout ce prompt directement dans l'IA :
+suisses. Copiez ceci directement dans l'IA :
 
 <CopyBlock>
 

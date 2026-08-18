@@ -7,7 +7,7 @@ const base = import.meta.env.BASE_URL
 
 # À propos de moi
 
-- Directeur de l'ingénierie logicielle de Koddian chez [Kumojin](https://kumojin.com)
+- Directeur de l'ingénierie logicielle chez Koddian, une entité de [Kumojin](https://kumojin.com)
 - Artisan logiciel
 - 15 ans d'expérience
 

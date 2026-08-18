@@ -1,5 +1,7 @@
 # Who here has heard of AI?
 
+Show of hands.
+
 <!--
 Ask the room: "Who here has heard of AI? What do you think it does?"
 Let 2-3 people answer out loud.

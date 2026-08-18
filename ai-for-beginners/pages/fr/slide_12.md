@@ -1,7 +1,6 @@
 # Démo 3 : rédiger une lettre à une administration
 
-Un besoin réel et courant : demander une attestation de résidence à la commune. Copiez ce prompt
-directement dans l'IA :
+Un besoin réel et courant : demander une attestation de résidence à la commune. Copiez ceci directement dans l'IA :
 
 <CopyBlock>
 

@@ -1,7 +1,7 @@
 # Démo 2 : traduire quelque chose de réel
 
-Une grand-mère écrit un texte en patois d'Évolène, un dialecte franco-provençal local encore
-parlé dans le Val d'Hérens. Copiez-le directement dans l'IA :
+Voici un texte réel en patois d'Évolène, un dialecte franco-provençal local encore parlé dans le
+Val d'Hérens. Copiez-le directement dans l'IA :
 
 <CopyBlock>
 
