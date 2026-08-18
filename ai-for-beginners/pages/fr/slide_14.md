@@ -1,4 +1,4 @@
-# Démo 4 : regarder un message d'arnaque s'écrire
+# Démo 4 : générer un message d'arnaque
 
 Celui-ci est généré en direct, ici même, uniquement pour montrer à quel point c'est convaincant et rapide. Ne l'envoyez jamais réellement.
 

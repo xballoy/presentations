@@ -16,8 +16,7 @@ parlé dans le Val d'Hérens. Copiez-le directement dans l'IA :
 </CopyBlock>
 
 <!--
-Source : « Lè Péyo dè Olèinna », un texte patois physique (voir
-/Users/xballoy/Downloads/4.1.1-patois.jpg).
+Source : « Lè Péyo dè Olèinna », un texte patois physique.
 Contexte général sur le patois d'Évolène : commune-evolene.ch/fr/patois-130.html.
 Vérifiez cette transcription par rapport à la source physique avant la présentation : c'est une
 lecture au mieux d'une photo, certaines orthographes peuvent être incorrectes.

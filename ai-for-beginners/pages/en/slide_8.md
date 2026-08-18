@@ -16,7 +16,7 @@ in the Val d'Hérens. Copy it straight into the AI:
 </CopyBlock>
 
 <!--
-Source: "Lè Péyo dè Olèinna", a physical patois text (see /Users/xballoy/Downloads/4.1.1-patois.jpg).
+Source: "Lè Péyo dè Olèinna", a physical patois text.
 Background on Évolène patois generally: commune-evolene.ch/fr/patois-130.html.
 Double check this transcription against the physical source before the talk: it's a best-effort
 reading of a photo, and some spellings may be off.

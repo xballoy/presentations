@@ -1,4 +1,4 @@
-# Demo 4: Watch a scam message get written
+# Demo 4: Generate a scam message
 
 This one is generated live, right here, purely to show how convincing and fast it is. Never actually send anything like this.
 
