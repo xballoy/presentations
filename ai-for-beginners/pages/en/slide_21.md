@@ -1,8 +1,11 @@
-# Open floor
+# AI in everyday life
 
-What's on your mind?
+- Writing or translating a message
+- Understanding an official document
+- Learning something new by just asking, in plain language
+- Basic troubleshooting: why won't my phone or appliance work?
+- Planning: recipes, schedules
 
 <!--
-Leave more time than you'd think. Misconceptions and fears (job loss, "is it always listening",
-scam concerns) need airtime. This audience is more likely to save questions for the end than interrupt.
+Keep each example to one sentence plus one visual if possible.
 -->

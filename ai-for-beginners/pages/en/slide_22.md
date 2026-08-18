@@ -1,6 +1,8 @@
-# Key takeaways
+# Open floor
 
-- It predicts patterns. It doesn't "think" or "know"
-- Useful for messages, documents, translation, planning
-- Never trust it alone for health, legal, or money decisions
-- Watch out for scam impersonation. Verify before you trust a voice or message
+What's on your mind?
+
+<!--
+Leave more time than you'd think. Misconceptions and fears (job loss, "is it always listening",
+scam concerns) need airtime. This audience is more likely to save questions for the end than interrupt.
+-->
