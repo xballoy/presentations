@@ -2,7 +2,7 @@
 
 The name and address in that letter were made up for this demo, not real personal data.
 
-- Never paste ID numbers, passwords, medical records, or bank details into a public AI tool
+- Never paste ID numbers, passwords, medical records, or bank details into an AI tool
 - Treat anything you type as something the provider could see or store
 - For a real version of that letter, use placeholder details first, then fill in the real ones yourself before sending
 

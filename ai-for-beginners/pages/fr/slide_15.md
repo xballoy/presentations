@@ -1,8 +1,8 @@
 # Ne partagez pas d'informations sensibles
 
-Le nom et l'adresse de cette lettre sont fictifs, inventés pour la démonstration, pas de vraies données personnelles.
+Le nom et l'adresse de cette lettre sont fictifs : ce ne sont pas de vraies données personnelles.
 
-- Ne copiez jamais de numéros d'identité, mots de passe, données médicales ou bancaires dans un outil d'IA public
+- Ne collez jamais de numéros d'identité, mots de passe, données médicales ou bancaires dans un outil d'IA
 - Considérez que tout ce que vous tapez peut être vu ou conservé par le fournisseur
 - Pour une vraie version de cette lettre, utilisez d'abord des données fictives, puis remplacez-les par les vraies avant d'envoyer
 

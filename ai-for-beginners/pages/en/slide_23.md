@@ -4,5 +4,6 @@
 - Useful for messages, documents, translation, planning
 - Never trust it alone for health, legal, or money decisions
 - Watch out for scam impersonation. Verify before you trust a voice or message
+- Never share ID numbers, passwords, or medical/bank details with an AI tool
 
 AI is a tool that's good at patterns and language, not a magic answer machine. Use it, but double check anything important.
