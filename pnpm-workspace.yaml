@@ -24,3 +24,4 @@ allowBuilds:
 
 overrides:
   markdown-exit: 1.1.0-beta.2
+  dompurify: 3.4.14
