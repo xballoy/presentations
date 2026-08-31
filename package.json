@@ -14,5 +14,5 @@
     "prettier": "3.9.6",
     "prettier-plugin-slidev": "1.0.5"
   },
-  "packageManager": "pnpm@11.22.0"
+  "packageManager": "pnpm@11.24.0"
 }
