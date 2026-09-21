@@ -8,16 +8,16 @@ packages:
 
 catalogs:
   slidev:
-    '@slidev/cli': 52.19.1
+    '@slidev/cli': 52.20.1
     '@slidev/theme-default': 0.25.0
-    vue: 3.5.42
+    vue: 3.5.43
   demo:
-    '@biomejs/biome': 2.5.13
+    '@biomejs/biome': 2.5.14
     '@tsconfig/node24': 24.0.5
     '@tsconfig/strictest': 2.0.8
-    '@types/node': 26.5.1
+    '@types/node': 26.6.1
     typescript: 7.0.2
-    vitest: 5.0.0
+    vitest: 5.0.1
 
 allowBuilds:
   esbuild: true

@@ -11,8 +11,8 @@
     "format:fix": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" \"shared/**/*.md\" --write"
   },
   "devDependencies": {
-    "prettier": "3.9.6",
+    "prettier": "3.9.8",
     "prettier-plugin-slidev": "1.0.5"
   },
-  "packageManager": "pnpm@12.4.1"
+  "packageManager": "pnpm@12.4.2"
 }
