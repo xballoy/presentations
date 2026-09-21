@@ -8,7 +8,7 @@ packages:
 
 catalogs:
   slidev:
-    '@slidev/cli': 52.20.1
+    '@slidev/cli': 53.0.0
     '@slidev/theme-default': 0.25.0
     vue: 3.5.43
   demo:
