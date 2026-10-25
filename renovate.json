@@ -1,5 +1,12 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>xballoy/renovate-config", ":automergeAll"],
-  "ignorePaths": ["**/node_modules/**", "**/bower_components/**", "ai-tech-debt/demo/**"]
+  "ignorePaths": ["**/node_modules/**", "**/bower_components/**", "ai-tech-debt/demo/**"],
+  "packageRules": [
+    {
+      "description": "magic-string 1.4.3 produces invalid CSS in Slidev builds (lightningcss minify error)",
+      "matchPackageNames": ["magic-string"],
+      "allowedVersions": "!/^1\\.4\\.3$/"
+    }
+  ]
 }
