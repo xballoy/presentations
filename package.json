@@ -11,6 +11,7 @@
     "format:fix": "prettier \"**/pages/**/*.md\" \"**/slides*.md\" \"shared/**/*.md\" --write"
   },
   "devDependencies": {
+    "@kjanat/actionlint": "1.17.0",
     "prettier": "3.9.10",
     "prettier-plugin-slidev": "1.0.5"
   },
