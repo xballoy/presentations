@@ -7,6 +7,11 @@
       "description": "magic-string 1.4.3 produces invalid CSS in Slidev builds (lightningcss minify error)",
       "matchPackageNames": ["magic-string"],
       "allowedVersions": "!/^1\\.4\\.3$/"
+    },
+    {
+      "description": "@types/node must match the Node.js major in .nvmrc; raise this together with .nvmrc and @tsconfig/nodeXX",
+      "matchPackageNames": ["@types/node"],
+      "allowedVersions": "26.x"
     }
   ]
 }

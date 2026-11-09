@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "catalog:demo",
-    "@tsconfig/node24": "catalog:demo",
+    "@tsconfig/node26": "catalog:demo",
     "@tsconfig/strictest": "catalog:demo",
     "@types/node": "catalog:demo",
     "typescript": "catalog:demo",
