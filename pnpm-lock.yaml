@@ -194,7 +194,7 @@ catalogs:
       version: 3.5.45
 
 overrides:
-  markdown-exit: 1.3.0
+  markdown-exit: 2.1.3
   dompurify: 3.4.17
   magic-string@1: 1.4.5
 
@@ -2572,8 +2572,8 @@ packages:
   magic-string@1.4.5:
     resolution: {integrity: sha512-oLLC2+YvQUfAa+vxoufE/yc1icb87M9iXIRqAoR/2EhE/8cb3SF/+Gi0c2By1B+5Vz2e2vQtUvHiu1+63Znh+w==}
 
-  markdown-exit@1.3.0:
-    resolution: {integrity: sha512-bsqlcm3Hk1ukcG1Al83pp3JjVobu4w1mpZz47OzLw8bCY8XchkCX+PXC32l2TH4nZ7p5WFg2NwpnLDXkY1X7Yw==}
+  markdown-exit@2.1.3:
+    resolution: {integrity: sha512-kHd0ffgNzRsjyd8ovxZX1iQsv1tkpRU9F7EGDcrMDxB6IwF5w0IMphqhIfDCSlgTh+NYSFyANaGQHsgHZU7mDw==}
 
   markdown-it-footnote@4.0.0:
     resolution: {integrity: sha512-WYJ7urf+khJYl3DqofQpYfEYkZKbmXmwxQV8c8mO/hGIhgZ1wOe7R4HLFNwqx7TjILbnC98fuyeSsin19JdFcQ==}
@@ -4229,7 +4229,7 @@ snapshots:
       lz-string: 1.5.0
       magic-string: 1.4.5
       magic-string-stack: 2.0.0
-      markdown-exit: 1.3.0
+      markdown-exit: 2.1.3
       markdown-it-footnote: 4.0.0
       markdown-it-github-alerts: 1.0.1(markdown-it@14.3.3)
       mlly: 1.8.2
@@ -6156,15 +6156,13 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.6.0
 
-  markdown-exit@1.3.0:
+  markdown-exit@2.1.3:
     dependencies:
-      '@types/linkify-it': 5.0.0
-      '@types/mdurl': 2.0.0
-      entities: 7.0.1
-      linkify-it: 5.0.2
+      character-entities: 2.0.2
+      linkify-it: 6.1.0
       mdurl: 2.1.0
       punycode.js: 2.3.1
-      uc.micro: 2.1.0
+      uc.micro: 3.0.0
 
   markdown-it-footnote@4.0.0: {}
 
@@ -7142,7 +7140,7 @@ snapshots:
       '@mdit-vue/plugin-component': 3.0.2
       '@mdit-vue/plugin-frontmatter': 3.0.2
       '@mdit-vue/types': 3.0.2
-      markdown-exit: 1.3.0
+      markdown-exit: 2.1.3
       unplugin: 3.4.0(rolldown@1.2.16)(vite@8.3.6(@types/node@26.6.6)(jiti@2.7.0)(yaml@2.9.1))
       unplugin-utils: 0.3.2
       vite: 8.3.6(@types/node@26.6.6)(jiti@2.7.0)(yaml@2.9.1)
