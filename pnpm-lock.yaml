@@ -167,9 +167,9 @@ catalogs:
     '@biomejs/biome':
       specifier: 2.6.5
       version: 2.6.5
-    '@tsconfig/node24':
-      specifier: 24.0.5
-      version: 24.0.5
+    '@tsconfig/node26':
+      specifier: 26.0.1
+      version: 26.0.1
     '@tsconfig/strictest':
       specifier: 2.0.8
       version: 2.0.8
@@ -257,9 +257,9 @@ importers:
       '@biomejs/biome':
         specifier: catalog:demo
         version: 2.6.5
-      '@tsconfig/node24':
+      '@tsconfig/node26':
         specifier: catalog:demo
-        version: 24.0.5
+        version: 26.0.1
       '@tsconfig/strictest':
         specifier: catalog:demo
         version: 2.0.8
@@ -300,9 +300,9 @@ importers:
       '@biomejs/biome':
         specifier: catalog:demo
         version: 2.6.5
-      '@tsconfig/node24':
+      '@tsconfig/node26':
         specifier: catalog:demo
-        version: 24.0.5
+        version: 26.0.1
       '@tsconfig/strictest':
         specifier: catalog:demo
         version: 2.0.8
@@ -1048,8 +1048,8 @@ packages:
     resolution: {integrity: sha512-B1eSYp63mfWojmCK54BEJcEjpRDD+OPrS/FROpjk1W7Hg/B7yGykLxt4YkSDcanNugfXXHarLsGUNjri+BoLew==}
     engines: {node: '>=22.12.0'}
 
-  '@tsconfig/node24@24.0.5':
-    resolution: {integrity: sha512-DWC54fGPuhZgg3Ighg4Y/A/bA3ZdB5hnzAuv/MkQ/X85sVsBsMQxu8t7khutdYeiNksBbFdDyeqv1HSW2Zl8aA==}
+  '@tsconfig/node26@26.0.1':
+    resolution: {integrity: sha512-NQT8JUFDKeAIWpR1dakeF534msQAsoSLr1WpKdRDt3sCvk2fsFK3EVKUBG5xKYVamiRO6yTfniiyvCaqOGgn/g==}
 
   '@tsconfig/strictest@2.0.8':
     resolution: {integrity: sha512-XnQ7vNz5HRN0r88GYf1J9JJjqtZPiHt2woGJOo2dYqyHGGcd6OLGqSlBB6p1j9mpzja6Oe5BoPqWmeDx6X9rLw==}
@@ -4503,7 +4503,7 @@ snapshots:
       - vite
       - webpack
 
-  '@tsconfig/node24@24.0.5': {}
+  '@tsconfig/node26@26.0.1': {}
 
   '@tsconfig/strictest@2.0.8': {}
 
